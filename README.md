@@ -1,2 +1,2 @@
 # Readings
-Here are the daily scientific literature readings!
+Here are my daily scientific literature readings!
