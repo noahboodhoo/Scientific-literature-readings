@@ -2,6 +2,11 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
+| 2023 | Lopez-Ballesteros *et al.* | *Catena* | DSOLMap, a novel high-resolution global digital soil property map for the SWAt+ model: development and hydrological evaluation | [Link](https://www.sciencedirect.com/science/article/pii/S0341816223004307) |
+| 2013 | Chagnon *et al.* | *Trends in Plant Science* | A trait based framework to understand life history of mycorrhizal fungi | [Link](https://www.sciencedirect.com/science/article/pii/S1360138513000885) |
+| 2012 | Chagnon *et al.* | *New Phytologist* | Using ecological network theory to evaluate the causes and consequences of arbuscular mycorrhizal community structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2011.04044.x) |
+| 2019 | Chagnon *et al.* | *Journal of Ecology* | Mycorrhizal netowrk assembly in a community context: the presence of neighbours matters | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13230) |
+| 2021 | Lekberg *et al.* | *Nature Communications* | Nitrogen and phosphorus fertilization consistently favor pathogenic over mutualistic fungi in grassland soils | [Link](https://www.nature.com/articles/s41467-021-23605-y) |
 | 2001 | Bever *et al.* | *BioScience* | Arbuscular mycorrhizal fungi: more diverse than meets the eye, and the ecological tale of why | [Link](https://academic.oup.com/bioscience/article/51/11/923/227109?login=true) |
 | 2022 | Sokol *et al.* | *Functional Ecology* | Global distribution, formation and fate of mineral-associated soil organic matter under a changing climate: a trait-based perspective | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14040) |
 | 2004 | Simberloff | *The American Naturalist* | Community ecology: is it time to move on? | [Link](https://www.journals.uchicago.edu/doi/10.1086/420777) |
