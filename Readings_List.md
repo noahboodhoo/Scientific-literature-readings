@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2023 | Lopez-Ballesteros *et al.* | *Catena* | DSOLMap, a novel high-resolution global digital soil property map for the SWAt+ model: development and hydrological evaluation | [Link](https://www.sciencedirect.com/science/article/pii/S0341816223004307) |
 | 2012 | Chagnon *et al.* | *New Phytologist* | Using ecological network theory to evaluate the causes and consequences of arbuscular mycorrhizal community structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2011.04044.x) |
 | 2019 | Chagnon *et al.* | *Journal of Ecology* | Mycorrhizal netowrk assembly in a community context: the presence of neighbours matters | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13230) |
 | 2021 | Lekberg *et al.* | *Nature Communications* | Nitrogen and phosphorus fertilization consistently favor pathogenic over mutualistic fungi in grassland soils | [Link](https://www.nature.com/articles/s41467-021-23605-y) |
@@ -15,6 +14,7 @@
 | 2018 | Strullu-Derrien *et al.* | *New Phytologist* | The origin and evolution of mycorrhizal symbioses: from palaeomycology to phylogenomics | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15076) |
 | 2023 | Zobel *et al.* | *Trends in Ecology & Evolution* | The multiscale feedback theory of biodiversity | [Link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00228-2) |
 | 2012 | Opik | *New Phytologist* | Missing nodes and links in mycorrhizal networks | [Link](https://www.jstor.org/stable/newphytologist.194.2.304) |
+| 2021 | Lu *et al.* | *Frontiers in Environmental Science* | Nitrogen addition and arbuscular mycorrhizal fungi beta diversity: patterns and mechanisms | [Link](https://www.frontiersin.org/articles/10.3389/fenvs.2021.701653/full) |
 
 
 
