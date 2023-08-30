@@ -27,10 +27,14 @@
 | 2014 | Moora *et al.* | *FEMS Microbiology Ecology* | Anthropogenic land use shapes the composition and phylogenetic structure of soil arbuscular mycorrhizal fungal communities | [Link](https://academic.oup.com/femsec/article/90/3/609/538238)|
 | 2015 | Xiang *et al.* | *Plant and Soil* | Arbuscular mycorrhizal fungal communities show low resistance and high resilience to wildfire disturbance | [Link](https://link.springer.com/article/10.1007/s11104-015-2633-z) |
 | 2015 | Chagnon *et al.* | *Oikos* | Trait-based partner selection drives mycorrhizal network assembly | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.01987) |
-| 2015 | Davison *et al* | *Science* | Global assessment of arbuscular mycorrhizal fungus diversity reveals very low endemism | [Link](https://www.science.org/doi/10.1126/science.aab1161) |
-| 2015 | Valyi *et al* | *New Phytologist* | Land-use intensity and host plant identity interactively shape communities of arbuscular mycorrhizal fungi in roots of grassland plants | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.13236) |
-| 2016 | Yang *et al* | *Scientific Reports* | Arbuscular mycorrhizal fungal community composition affected by original elevation rather than translocation along an altitudinal gradient on the Qinghai-Tibet Plateau | [Link](https://www.nature.com/articles/srep36606) |
-| 2016 | Xiang *et al.* | *PeerJ*| Rapid response of arbuscular mycorrhizal fungal communities to short-term fertilization in an alpine grassland on the Qinghai-Tibet Plateau | [Link](https://peerj.com/articles/2226/) |
+| 2015 | Davison *et al.* | *Science* | Global assessment of arbuscular mycorrhizal fungus diversity reveals very low endemism | [Link](https://www.science.org/doi/10.1126/science.aab1161) |
+| 2015 | Valyi *et al.* | *New Phytologist* | Land-use intensity and host plant identity interactively shape communities of arbuscular mycorrhizal fungi in roots of grassland plants | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.13236) |
+| 2016 | Yang *et al.* | *Scientific Reports* | Arbuscular mycorrhizal fungal community composition affected by original elevation rather than translocation along an altitudinal gradient on the Qinghai-Tibet Plateau | [Link](https://www.nature.com/articles/srep36606) |
+| 2016 | Xiang *et al.* | *PeerJ*| Rapid response of arbuscular mycorrhizal fungal communities to short-term fertilization in an alpine grassland on the Qinghai-Tibet Plateau | [Link](https://peerj.com/articles/2226/) | 2016 | Gao *et al.* | *Botany* | Increased precipitation, rather than warming, exerts a strong influence on arbuscular mycorrhizal fungal community in a semiarid steppe ecosystem | [Link](https://cdnsciencepub.com/doi/10.1139/cjb-2015-0210) |
+| 2016 | Holste *et al.* | *Ecology and Evolution* | Reduced aboveground tree growth associated with higher arbuscular mycorrhizal fungal diversity in tropical forest restoration | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2487) |
+| 2017 | Lopez-Garcia *et al.* | *Molecular Ecology* | Plant traits determine the phylogenetic structure of arbuscular mycorrhizal fungal communities | [Link](https://onlinelibrary.wiley.com/doi/10.1111/mec.14403) |
+
+
 
 
 
