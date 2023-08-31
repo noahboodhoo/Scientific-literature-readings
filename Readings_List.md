@@ -52,13 +52,31 @@
 | 2018 | Poirier *et al* | *Soil Biology and Biochemistry* | The root of the matter: linking root traits and soil organic matter stabilization processes | [Link](https://www.sciencedirect.com/science/article/pii/S0038071718300658?via%3Dihub) |
 | 2019 | Frey | *Annual Review of Ecology, Evolution, and Systematics* | Mycorrhizal fungi as mediators of soil organic matter dynamics | [Link](https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-110617-062331) |
 | 2019 | Crowther *et al.* | *Science* | The global soil community and its influence on biogeochemistry | [Link](https://www.science.org/doi/10.1126/science.aav0550) |
-| 2019 | Wagg *et al* | *Nature Communications* | Fungal-bacterial diversity and microbiome complexity predict ecosystem functioning | [Link](https://www.nature.com/articles/s41467-019-12798-y) |
-| 2019 | Cavicchioli *et al* | *Nature Reviews Microbiology* | Scientists' warning to humanity: microorganisms and climate change | [Link](https://www.nature.com/articles/s41579-019-0222-5) |
+| 2019 | Wagg *et al.* | *Nature Communications* | Fungal-bacterial diversity and microbiome complexity predict ecosystem functioning | [Link](https://www.nature.com/articles/s41467-019-12798-y) |
+| 2019 | Cavicchioli *et al.* | *Nature Reviews Microbiology* | Scientists' warning to humanity: microorganisms and climate change | [Link](https://www.nature.com/articles/s41579-019-0222-5) |
 | 2022 | Goberna & Verdu | *Soil Biology and Biochemistry* | Cautionary notes on the use of co-occurrence networks in soil ecology | [Link](https://www.sciencedirect.com/science/article/pii/S0038071721004089?via%3Dihub) | 
-| 2022 | Iqbal *et al* | *Applied Soil Ecology* | Impacts of soil microplastics on crops: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002967?via%3Dihub) |
-| 2022 | Islam *et al* | *Applied Soil Ecology* | Microbial carbon use efficiency of glucose varies with soil clay content: a meta-analysis | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002529?via%3Dihub) |
-| 2022 | See *et al* | *Global Change Biology* | Hyphae move matter and microbes to mineral microsites: integrating the hyphosphere into conceptual models of soil organic matter stabilization | [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16073) |
-| 2022 | Fox *et al* | *Mycologia* | Fire as a driver of fungal diversity - a synthesis of current knowledge | [Link](https://www.tandfonline.com/doi/full/10.1080/00275514.2021.2024422) |
+| 2022 | Iqbal *et al.* | *Applied Soil Ecology* | Impacts of soil microplastics on crops: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002967?via%3Dihub) |
+| 2022 | Islam *et al.* | *Applied Soil Ecology* | Microbial carbon use efficiency of glucose varies with soil clay content: a meta-analysis | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002529?via%3Dihub) |
+| 2022 | See *et al.* | *Global Change Biology* | Hyphae move matter and microbes to mineral microsites: integrating the hyphosphere into conceptual models of soil organic matter stabilization | [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16073) |
+| 2022 | Fox *et al.* | *Mycologia* | Fire as a driver of fungal diversity - a synthesis of current knowledge | [Link](https://www.tandfonline.com/doi/full/10.1080/00275514.2021.2024422) |
+| 2016 | Gazol *et al.* | *FEMS Microbiology Ecology* | Impact of alien pines on local arbuscular mycorrhizal fungal communities - evidence from two continents | [Link](https://academic.oup.com/femsec/article/92/6/fiw073/2470062) |
+| 2016 | Moora *et al.* | *Mycorrhiza* | AM fungal communities inhabiting the roots of submerged aquatic plant Lobelia dortmanna are diverse and include a high proportion of novel taxa | [Link](https://link.springer.com/article/10.1007/s00572-016-0709-0) | 
+| 2017 | Chen *et al.* | *Soil Biology and Biochemistry* | Nitrogen deposition and precipitation induced phylogenetic clustering of arbuscular mycorrhizal fungal communities | [Link](https://www.sciencedirect.com/science/article/pii/S0038071717302912) | 
+| 2017 | Rodriguez-Echeverria *et al.* | *New Phytologist* | Arbuscular mycorrhizal fungi communities from tropical Africa reveal strong ecological structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14122) |
+| 2017 | Sheldrake *et al.* | *New Phytologist* | Arbuscular mycorrhizal fungal community composition is altered by long-term litter removal but not litter addition in a lowland tropical forest | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14384) |
+| 2017 | Xu *et al.* | *Scientific Reports* | Land use alters arbuscular mycorrhizal fungal communities and their potential role in carbon sequestration on the Tibetan Plateau | [Link](https://www.nature.com/articles/s41598-017-03248-0) |
+| 2017 | Egan *et al.* | *Mycorrhiza* | Phylogenetic structure of arbuscular mycorrhizal fungal communities along an elevation gradient | [Link](https://link.springer.com/article/10.1007/s00572-016-0752-x) | 
+| 2017 | Vasar *et al.* | *Mycorrhiza* | Increased sequencing depth does not increase captured diversity of arbuscular mycorrhizal fungi | [Link](https://link.springer.com/article/10.1007/s00572-017-0791-y) | 
+| 2017 | Berruti *et al.* | *Environmental Microbiology Reports* | ITS fungal barcoding primers versus 18S AMF-specific primers reveal similar AMF-based diversity patterns in roots and soils of three mountain vineyards | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.12574) |
+| 2017 | Williams *et al.* | *New Phytologist* | Long-term agricultural fertilization alters arbuscular mycorrhizal fungal community composition and barley (Hordeum vulgare) mycorrhizal carbon and phosphorus exchange | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14196) |
+| 2017 | Wang *et al.* | *Mycorrhiza* | Colonization and community structure of arbuscular mycorrhizal fungi in maize roots at different depths in the soil profile respond differently to phosphorus inputs on a long-term experimental site | [Link](https://link.springer.com/article/10.1007/s00572-016-0757-5) |
+| 2017 | Horn *et al.* | *ISME Journal* | Linking the community structure of arbuscular mycorrhizal fungi and plants: a story of interdependence? | [Link](https://www.nature.com/articles/ismej20175) |
+| 2017 | Koorem *et al.* | *Plant and Soil* | Arbuscular mycorrhizal fungal communities in forest plant roots are simultaneously shaped by host characteristics and canopy-mediated light availability | [Link](https://link.springer.com/article/10.1007/s11104-016-3004-0) |
+
+
+
+
+
 
 
 
