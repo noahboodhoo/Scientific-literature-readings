@@ -72,6 +72,27 @@
 | 2017 | Wang *et al.* | *Mycorrhiza* | Colonization and community structure of arbuscular mycorrhizal fungi in maize roots at different depths in the soil profile respond differently to phosphorus inputs on a long-term experimental site | [Link](https://link.springer.com/article/10.1007/s00572-016-0757-5) |
 | 2017 | Horn *et al.* | *ISME Journal* | Linking the community structure of arbuscular mycorrhizal fungi and plants: a story of interdependence? | [Link](https://www.nature.com/articles/ismej20175) |
 | 2017 | Koorem *et al.* | *Plant and Soil* | Arbuscular mycorrhizal fungal communities in forest plant roots are simultaneously shaped by host characteristics and canopy-mediated light availability | [Link](https://link.springer.com/article/10.1007/s11104-016-3004-0) |
+| 2017 | Kotilinek *et al.* | *Scientific Reports* | Fungal root symbionts of high-altitude vascular plants in the Himalayas | [Link](https://www.nature.com/articles/s41598-017-06938-x) |
+| 2018 | Sosa-Hernandez *et al.* | *Soil Biology and Biochemistry* | Subsoil arbuscular mycorrhizal fungal communities in arable soil differ from those in topsoil | [Link](https://www.sciencedirect.com/science/article/pii/S0038071717306454) |
+| 2018 | Garcia de Leon *et al.* | *Global Change Biology* | Anthropogenic disturbance equalizes diversity levels in arbuscular mycorrhizal fungal communities | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14131) |
+| 2018 | Neuenkamp *et al.* | *New Phytologist* | The role of plant mycorrhizal type and status in modulating the relationship between plant and arbuscular mycorrhizal fungal communities | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14995) |
+| 2018 | Rasmussen *et al.* | *New Phytologist* | Multiscale patterns and drivers of arbuscular mycorrhizal fungal communities in the roots and root-associated soil of a wild perennial herb | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15088) |
+| 2018 | Lang *et al.* | *Applied Soil Ecology* | Long-term phosphorus application to a maize monoculture influences the soil microbial community and its feedback effects on maize seedling biomass | [Link](https://www.sciencedirect.com/science/article/pii/S0929139317308624) |
+| 2018 | Van  Geel *et al.* | *New Phytologist* | Abiotic rather than biotic filtering shapes the arbuscular mycorrhizal fungal communities of European seminatural grasslands | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14947) |
+| 2018 | Hu *et al.* | *Frontiers in Microbiology* | Mycobiome of cysts of the soybean cyst nematode under long term crop rotation | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00386/full) |
+| 2018 | Yang *et al.* | *Frontiers in Microbiology* | Compost addition enhanced hyphal growth and sporulation of arbuscular mycorrhizal fungi without affecting their community composition in the soil | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2018.00169/full) |
+| 2018 | Niwa *et al.* | *Scientific Reports* | Dissection of niche competition between introduced and indigenous arbuscular mycorrhizal fungi with respect to soybean yield responses | [Link](https://www.nature.com/articles/s41598-018-25701-4) |
+| 2018 | Lekberg *et al.* | *New Phytologist* | More bang for the buck? Can arbuscular mycorrhizal fungal communities be characterized adequately alongside other fungi using general fungal primers? | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15035) |
+| 2018 | Yu *et al.* | *New Phytologist* | Root type and soil phosphate determine the taxonomic landscape of colonizing fungi and the transcriptome of field-grown maize roots | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14893) |
+| 2018 | Davison *et al.* | *ISME Journal* | Microbial isalnd biogeography: isolation shapes the life history characteristics but not diversity of root-symbiotic fungal communities | [Link](https://www.nature.com/articles/s41396-018-0196-8) | 
+
+
+
+
+
+
+
+
 
 
 
