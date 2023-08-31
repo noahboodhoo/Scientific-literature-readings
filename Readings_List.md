@@ -32,6 +32,51 @@
 | 2016 | Xiang *et al.* | *PeerJ*| Rapid response of arbuscular mycorrhizal fungal communities to short-term fertilization in an alpine grassland on the Qinghai-Tibet Plateau | [Link](https://peerj.com/articles/2226/) | 2016 | Gao *et al.* | *Botany* | Increased precipitation, rather than warming, exerts a strong influence on arbuscular mycorrhizal fungal community in a semiarid steppe ecosystem | [Link](https://cdnsciencepub.com/doi/10.1139/cjb-2015-0210) |
 | 2016 | Holste *et al.* | *Ecology and Evolution* | Reduced aboveground tree growth associated with higher arbuscular mycorrhizal fungal diversity in tropical forest restoration | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2487) |
 | 2017 | Lopez-Garcia *et al.* | *Molecular Ecology* | Plant traits determine the phylogenetic structure of arbuscular mycorrhizal fungal communities | [Link](https://onlinelibrary.wiley.com/doi/10.1111/mec.14403) |
+| 2013 | Quilliam *et al.* | *Soil Biology and Biochemistry* | Life in the 'charosphere' - does biochar in agricultural soil provide a significant habitat for microorganisms? | [Link](https://www.sciencedirect.com/science/article/pii/S0038071713002149?via%3Dihub) | 2013 | Sinsabaugh *et al.* | *Ecology Letters* | Carbon use efficiency of microbial communities: stoichiometry, methodology and modelling | [Link](https://onlinelibrary.wiley.com/doi/10.1111/ele.12113) |
+| 2013 | Nemergut *et al.* | *Microbiology and Molecular Biology Reviews* | Patterns and processes of microbial community assembly | [Link](https://journals.asm.org/doi/10.1128/mmbr.00051-12) |
+| 2014 | Wagg *et al.* | *PNAS* | Soil biodiversity and soil community composition determine ecosystem multifunctionality | [Link](https://www.pnas.org/doi/full/10.1073/pnas.1320054111) |
+| 2014 | Krause *et al.* | *Frontiers in Microbiology* | Trait-based approaches for understanding microbial biodiversity and ecosystem functioning | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2014.00251/full) |
+| 2013 | Xu *et al.* | *Global Ecology and Biogeography* | A global analysis of soil microbial biomass carbon, nitrogen and phosphorus in terrestrial ecosystems | [Link](https://onlinelibrary.wiley.com/doi/10.1111/geb.12029) |
+| 2013 | Peiffer *et al.* | *PNAS* | Diversity and heritability of the maize rhizosphere microbiome under field conditions | [Link](https://www.pnas.org/doi/full/10.1073/pnas.1302837110) |
+| 2015 | Leff *et al.* | *PNAS* | Consistent responses of soil microbial communities to elevated nutrient inputs in grasslands across the globe | [Link](https://www.pnas.org/doi/full/10.1073/pnas.1508382112) |
+| 2015 | van der Heidjen *et al.* | *New Phytologist* | Mycorrhizal ecology and evolution: the past, the present, and the future | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13288) |
+| 2015 | Rillig *et al.* | *New Phytologist* | Plant root and mycorrhizal fungal traits for understanding soil aggregation | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13045) |
+| 2015 | Eissenstat *et al* | *New Phytologist* | Linking root traits to nutrient foraging in arbuscular mycorrhizal trees in a temperate forest | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13451) |
+| 2016 | Zhou *et al.* | *Nature Communications* | Temperature mediates continental-scale diversity of microbes in forest soils | [Link](https://www.nature.com/articles/ncomms12083) |
+| 2016 | Zhang *et al.* | *New Phytologist* | Carbon and phosphorus exchange may enable cooperation between an arbuscular mycorrhizal fungus and a phosphate-solubilizing bacterium | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13838) |
+| 2017 | Jackson *et al.* | *Annual Review of Ecology, Evolution, and Systematics* | The ecology of soil carbon: pools, vulnerabilities, and biotic and abiotic controls | [Link](https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-112414-054234) |
+| 2017 | Tecon & Or | *FEMS Microbiology Reviews* | Biophysical processes supporting the diversity of microbial life in soil | [Link](https://academic.oup.com/femsre/article/41/5/599/4082850?login=true) |
+| 2017 | Agegnehu *et al.* | *Applied Soil Ecology* | The role of biochar and biochar-compost in improving soil quality and crop performance: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139316304954?via%3Dihub) | 2018 | Poirier *et al* | *Soil Biology and Biochemistry* | The root of the matter: linking root traits and soil organic matter stabilization processes | [Link](https://www.sciencedirect.com/science/article/pii/S0038071718300658?via%3Dihub) |
+| 2019 | Frey | *Annual Review of Ecology, Evolution, and Systematics* | Mycorrhizal fungi as mediators of soil organic matter dynamics | [Link](https://www.annualreviews.org/doi/10.1146/annurev-ecolsys-110617-062331) |
+| 2019 | Crowther *et al.* | *Science* | The global soil community and its influence on biogeochemistry | [Link](https://www.science.org/doi/10.1126/science.aav0550) |
+| 2019 | Wagg *et al* | *Nature Communications* | Fungal-bacterial diversity and microbiome complexity predict ecosystem functioning | [Link](https://www.nature.com/articles/s41467-019-12798-y) |
+| 2019 | Cavicchioli *et al* | *Nature Reviews Microbiology* | Scientists' warning to humanity: microorganisms and climate change | [Link](https://www.nature.com/articles/s41579-019-0222-5) |
+| 2022 | Goberna & Verdu | *Soil Biology and Biochemistry* | Cautionary notes on the use of co-occurrence networks in soil ecology | [Link](https://www.sciencedirect.com/science/article/pii/S0038071721004089?via%3Dihub) | 2022 | Iqbal *et al* | *Applied Soil Ecology* | Impacts of soil microplastics on crops: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002967?via%3Dihub) |
+| 2022 | Islam *et al* | *Applied Soil Ecology* | Microbial carbon use efficiency of glucose varies with soil clay content: a meta-analysis | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002529?via%3Dihub) |
+| 2022 | See *et al* | *Global Change Biology* | Hyphae move matter and microbes to mineral microsites: integrating the hyphosphere into conceptual models of soil organic matter stabilization | [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16073) |
+| 2022 | Fox *et al* | *Mycologia* | Fire as a driver of fungal diversity - a synthesis of current knowledge | [Link](https://www.tandfonline.com/doi/full/10.1080/00275514.2021.2024422) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
