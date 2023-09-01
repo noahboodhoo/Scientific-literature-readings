@@ -1,5 +1,7 @@
 **Future Scientific Ltierature Readings**
 
+**Consider adding publications from Roumet, Freschet, McCormack, Eissenstat, Iversen**
+
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
 | 2012 | Chagnon *et al.* | *New Phytologist* | Using ecological network theory to evaluate the causes and consequences of arbuscular mycorrhizal community structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2011.04044.x) |
@@ -100,6 +102,8 @@
 | 2019 | Higo *et al.* | *Scientific Reports* | First report of community dynamics of arbuscular mycorrhizal fungi in radiocesium degradation lands after the Fukushima-Daiichi nuclear disaster in Japan | [Link](https://www.nature.com/articles/s41598-019-44665-7) |
 | 2019 | Higo *et al.* | *PeerJ* | Cover cropping can be a stronger determinant than host crop identity for arbuscular mycorrhizal fungal communities colonizing maize and soybean | [Link](https://peerj.com/articles/6403/) |
 | 2019 | Grossman *et al.* | *FEMS Microbiology Ecology* | Non-symbiotic soil microbes are more strongly influenced by altered tree biodiversity than arbuscular mycorrhizal fungi during initial forest establishment | [Link](https://academic.oup.com/femsec/article/95/10/fiz134/5553462) |
+
+
 
 
 
