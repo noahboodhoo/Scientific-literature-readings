@@ -85,6 +85,30 @@
 | 2018 | Lekberg *et al.* | *New Phytologist* | More bang for the buck? Can arbuscular mycorrhizal fungal communities be characterized adequately alongside other fungi using general fungal primers? | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15035) |
 | 2018 | Yu *et al.* | *New Phytologist* | Root type and soil phosphate determine the taxonomic landscape of colonizing fungi and the transcriptome of field-grown maize roots | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14893) |
 | 2018 | Davison *et al.* | *ISME Journal* | Microbial isalnd biogeography: isolation shapes the life history characteristics but not diversity of root-symbiotic fungal communities | [Link](https://www.nature.com/articles/s41396-018-0196-8) | 
+| 2018 | Kusakabe *et al.* | *Mycorrhiza* | Arbuscular mycorrhizal fungal communities under gradients of grazing in Mongolian grasslands of different aridity | [Link](https://link.springer.com/article/10.1007/s00572-018-0855-7) |
+| 2018 | Deveautour *et al.* | *Molecular Ecology* | Experimentally altered rainfall regimes and host root traits affect grassland arbuscular mycorrhizal fungal communities | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14536) |
+| 2019 | Bittebiere *et al.* | *Journal of Ecology* | Past spatial structure of plant communities determines arbuscular mycorrhizal fungal community assembly | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13279) |
+| 2019 | Qian *et al.* | *Frontiers in Microbiology* | Leaf and root endospheres harbor lower fungal diversity and less complex fungal co-occurrence patterns than rhizosphere | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01015/full) |
+| 2019 | Atunnisa & Ezawa | *Microbes and Environments* | Nestedness in arbuscular mycorrhizal fungal communities in a volcanic ecosystem: selection of disturbance-tolerant fungi along an elevation gradient | [Link](https://www.jstage.jst.go.jp/article/jsme2/34/3/34_ME19073/_article) |
+| 2019 | Alzarhani *et al.* | *ISME Journal* | Are drivers of root-associated fungal community structure context specific? | [Link](https://www.nature.com/articles/s41396-019-0350-y) |
+| 2019 | Wilkinson *et al.* | *Frontiers in Plant Science* | Aphids influence soil fungal communities in conventional agricultural systems | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2019.00895/full) |
+| 2019 | Sepp *et al.* | *Molecular Ecology* | Non-random association patterns in a plant-mycorrhizal fungal network reveal host-symbiont specificity | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14924) |
+| 2019 | Smilauer *et al.* | *New Phytologist* | Contrasting effects of host identity, plant community, and local species pool on the composition and colonization levels of arbuscular mycorrhizal fungal community in a temperate grassland | [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16112) |
+| 2019 | Koyama *et al.* | *Journal of Ecology* | Plant geographic origin and phylogeny as potential drivers of community structure in root-inhabiting fungi | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13143) |
+| 2019 | Tipton *et al.* | *Botany* | Anthropogenic and soil environmental drivers of arbuscular mycorrhizal community composition differ between grassland ecosystems | [Link](https://cdnsciencepub.com/doi/10.1139/cjb-2018-0072) |
+| 2019 | Macek *et al.* | *Molecular Ecology* | Impacts of long-term elevated atmospheric CO<sub>2</sub> concentrations on communities of arbuscular mycorrhizal fungi | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15160) |
+| 2019 | Higo *et al.* | *Scientific Reports* | First report of community dynamics of arbuscular mycorrhizal fungi in radiocesium degradation lands after the Fukushima-Daiichi nuclear disaster in Japan | [Link](https://www.nature.com/articles/s41598-019-44665-7) |
+| 2019 | Higo *et al.* | *PeerJ* | Cover cropping can be a stronger determinant than host crop identity for arbuscular mycorrhizal fungal communities colonizing maize and soybean | [Link](https://peerj.com/articles/6403/) |
+| 2019 | Grossman *et al.* | *FEMS Microbiology Ecology* | Non-symbiotic soil microbes are more strongly influenced by altered tree biodiversity than arbuscular mycorrhizal fungi during initial forest establishment | [Link](https://academic.oup.com/femsec/article/95/10/fiz134/5553462) |
+
+
+
+
+
+
+
+
+
 
 
 
