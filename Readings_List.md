@@ -1,6 +1,6 @@
 **Future Scientific Ltierature Readings**
 
-**Consider adding publications from Roumet, Freschet, McCormack, Eissenstat, Iversen**
+**Consider adding publications from Catherine Roumet, Gregoire Freschet, Michael Luke McCormack, David Eissenstat, Colleen Iversen**
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
@@ -102,6 +102,38 @@
 | 2019 | Higo *et al.* | *Scientific Reports* | First report of community dynamics of arbuscular mycorrhizal fungi in radiocesium degradation lands after the Fukushima-Daiichi nuclear disaster in Japan | [Link](https://www.nature.com/articles/s41598-019-44665-7) |
 | 2019 | Higo *et al.* | *PeerJ* | Cover cropping can be a stronger determinant than host crop identity for arbuscular mycorrhizal fungal communities colonizing maize and soybean | [Link](https://peerj.com/articles/6403/) |
 | 2019 | Grossman *et al.* | *FEMS Microbiology Ecology* | Non-symbiotic soil microbes are more strongly influenced by altered tree biodiversity than arbuscular mycorrhizal fungi during initial forest establishment | [Link](https://academic.oup.com/femsec/article/95/10/fiz134/5553462) |
+| 2019 | Banerjee *et al.* | *ISME Journal* | Agricultural intensification reduces microbial network complexity and the abundance of keystone taxa in roots | [Link](https://www.nature.com/articles/s41396-019-0383-2) | 
+| 2020 | Chaudhary *et al.* | *New Phytologist* | Trait-based aerial dispersal of arbuscular mycorrhizal fungi | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16667) |
+| 2020 | Pineda *et al.* | *New Phytologist* | Conditioning the soil microbiome through plant-soil feedbacks suppresses an aboveground insect pest | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16385) |
+| 2020 | Spor *et al.* | *Scientific Reports* | Domestication-driven changes in plant traits associated with changes in the assembly of the rhizosphere microbiota in tetraploid wheat | [Link](https://www.nature.com/articles/s41598-020-69175-9) |
+| 2020 | Spitzer *et al.* | *New Phytologist* | Root trait-microbial relationships across tundra plant species | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16982) |
+|2020|Higo *et al.*| *Scientific Reports*| Amplicon sequencing analysis of arbuscular mycorrhizal fungal communities colonizing maize roots in different cover cropping and tillage systems| [Link](https://www.nature.com/articles/s41598-020-58942-3) |
+| 2020 | Higo *et al.* | *Microorganisms* | Impact of phosphorus fertilization on tomato growth and arbuscular mycorrhizal fungal communities | [Link](https://www.mdpi.com/2076-2607/8/2/178) |
+| 2020 | Carey *et al.* | *Ecology and Evolution* | Soil microbial communities associated with giant sequoia: how does the world's largest tree affect some of the world's smallest organisms? | [Link](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6392) |
+| 2020 | Wang *et al.* | *Frontiers in Microbiology* | Influence of 37 years of nitrogen and phosphorus fertilization on composition of rhizosphere arbuscular mycorrhizal fungi communities in black soil of Northeast China | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2020.539669/full) |
+| 2020 | Duenas *et al.* | *New Phytologist* | Moderate phosphorus additions consistently affect community composition of arbuscular mycorrhizal fungi in tropical montane forests in southern Ecuador | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16641) |
+| 2020 | Neuenkamp *et al.* | *Ecology Letters* | Light availability and light demand of plants shape the arbuscular mycorrhizal fungal communities in their roots | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13656) |
+| 2020 | Srour *et al.* | *Frontiers in Microbiology* | Microbial communities associated with long-term tillage and fertility treatments in a corn-soybean cropping system | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01363/full) |
+| 2020 | Sweeney *et al.* | *New Phytologist* | Root traits explain rhizosphere fungal community composition among temperate grassland plant species | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16976) |
+| 2020 | Stefani *et al.* | *Frontiers in Plant Science* | Similar arbuscular mycorrhizal fungal communities in 31 durum wheat cultivars (Triticum turgidum L. var. durum) under field conditions in Eastern Canada | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2020.01206/full)|
+| 2021 | Yang *et al.* | *PeerJ* | Alterations to arbuscular mycorrhizal fungal community composition is driven by warming at specific elevations | [Link](https://peerj.com/articles/11792/) |
+| 2021 | Dong *et al.* | *Frontiers in Plant Science* | Phylogenetic correlation and symbiotic network explain the interdependence between plants and arbuscular mycorrhizal fungi in a Tibetan alpine meadow | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2021.804861/full) |
+| 2021 | Tatsumi *et al.* | *Frontiers in Plant Science* | Arbuscular mycorrhizal community in roots and nitrogen uptake patterns of understory trees beneath ectomycorrhizal and non-ectomycorrhizal overstory trees | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2020.583585/full) |
+| 2021 | Albornoz *et al.* | *New Phytologist* | Agricultural land-use favours Mucoromycotinian, but not Glomeromycotinian, arbuscular mycorrhizal fungi across ten biomes | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17780) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
