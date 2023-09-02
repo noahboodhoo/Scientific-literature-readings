@@ -120,6 +120,8 @@
 | 2021 | Dong *et al.* | *Frontiers in Plant Science* | Phylogenetic correlation and symbiotic network explain the interdependence between plants and arbuscular mycorrhizal fungi in a Tibetan alpine meadow | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2021.804861/full) |
 | 2021 | Tatsumi *et al.* | *Frontiers in Plant Science* | Arbuscular mycorrhizal community in roots and nitrogen uptake patterns of understory trees beneath ectomycorrhizal and non-ectomycorrhizal overstory trees | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2020.583585/full) |
 | 2021 | Albornoz *et al.* | *New Phytologist* | Agricultural land-use favours Mucoromycotinian, but not Glomeromycotinian, arbuscular mycorrhizal fungi across ten biomes | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17780) |
+| 2023 | Chen *et al.* | *PeerJ* | An investigation into the response of the soil ecological environment to tourist disturbance in Baligou | [Link](https://peerj.com/articles/15780/?utm_source=summary_email_publication&utm_medium=email&utm_campaign=connection) |
+
 
 
 
