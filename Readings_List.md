@@ -177,6 +177,34 @@
 | 2023 | Carrell *et al.* | *Frontiers in Microbiology* | Nitrogen addition alters soil fungal communities, but root fungal communities are resistant to change | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1033631/full) |
 | 2023 | Moravcova *et al.* | *FEMS Microbiology Ecology* | Climate-driven shifts in plant and fungal communities can lead to topsoil carbon loss in alpine ecosystems | [Link](https://academic.oup.com/femsec/article/99/5/fiad041/7110974) |
 | 2023 | Valentin *et al.* | *PeerJ* | Modeling geographic distribution of arbuscular mycorrhizal fungi from molecular evidence in soils of Argentinean Puna using a maximum entropy approach | [Link](https://peerj.com/articles/14651/) |
+| 2017 | Valverde-Barrantes *et al.* | *New Phytologist* | A worldview of root traits: the influence of ancestry, growth form, climate and mycorrhizal association on the functional trait variation of fine-root tissues in seed plants | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14571) |
+| 2016 | Roumet *et al.* | *New Phytologist* | Root structure-function relationships in 74 species: evidence of a root economics spectrum related to carbon economy [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13828) |
+| 2017 | Iversen *et al.* | *New Phytologist* | A global fine-root ecology databse to address below-ground challenges in plant ecology | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14486) |
+| 2018 | Freschet *et al.* | *New Phytologist* | Allocation, morphology, physiology, architecture: the multiple facets of plant above- and below-ground responses to resource stress | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15225) |
+| 2017 | Dignac *et al.* | *Agronomy for Sustainable Development* | Increasing soil carbon storage: mechanisms, effects of agricultral practices and proxies. A review | [Link](https://link.springer.com/article/10.1007/s13593-017-0421-2) |
+| 2020 | Bergmann *et al.* | *Science Advances* | The fungal collaboration gradient dominates the root economics space in plants | [Link](https://www.science.org/doi/10.1126/sciadv.aba3756) |
+| 2021 | Weigelt *et al.* | *New Phytologist* | An integrated framework of plant form and function: the belowground perspective | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17590) |
+| 2020 | Freschet *et al.* | *New Phytologist* | Root traits as drivers of plant and ecosystem functioning:  current understanding, pitfalls and future research needs | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17072) |
+| 2021 | Freschet *et al.* | *New Phytologist* | A starting guide to root ecology: strengthening ecological concepts and standardising root classification, sampling, processing, and trait measurements | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17572) |
+| 2015 | Freschet *et al.* | *New Phytologist* | Integrated plant phenotypic responses to contrasting above- and below-ground resources: key roles of specific leaf area and root mass fraction | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13352) |
+| 2013 | Freschet *et al.* | *Journal of Ecology* | Linking litter decomposition of above- and below-ground organs to plant-soil feedbacks worldwide | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.12092) |
+| 2022 | Yan *et al.* | *New Phytologist* | Mycorrhizal symbiosis pathway and edaphic fertility frame root economics space among tree species | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18066) |
+| 2015 | Siefert *et al.* | *Ecology Letters* | A global meta-analysis of the relative extent of intraspecific trait variation in plant communities | [Link](https://onlinelibrary.wiley.com/doi/10.1111/ele.12508) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
