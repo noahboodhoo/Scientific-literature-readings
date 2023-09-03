@@ -121,6 +121,110 @@
 | 2021 | Tatsumi *et al.* | *Frontiers in Plant Science* | Arbuscular mycorrhizal community in roots and nitrogen uptake patterns of understory trees beneath ectomycorrhizal and non-ectomycorrhizal overstory trees | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2020.583585/full) |
 | 2021 | Albornoz *et al.* | *New Phytologist* | Agricultural land-use favours Mucoromycotinian, but not Glomeromycotinian, arbuscular mycorrhizal fungi across ten biomes | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17780) |
 | 2023 | Chen *et al.* | *PeerJ* | An investigation into the response of the soil ecological environment to tourist disturbance in Baligou | [Link](https://peerj.com/articles/15780/?utm_source=summary_email_publication&utm_medium=email&utm_campaign=connection) |
+| 2021 | Orru *et al.* | *Frontiers in Microbiology* | How tillage and crop rotation change the distribution pattern of fungi | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.634325/full) |
+| 2021 | Wang *et al.* | *Ecology and Evolution* | Humus microhabitat affects distributions of soil fungi and bacteria in a temperate mountain forest | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7759) |
+| 2021 | Leroy *et al.* | *New Phytologist* | Taxonomic, phylogenetic and functional diversity of root-associated fungi in bromeliads: effects of host identity, life forms and nutritional mode | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17288) |
+| 2021 | Bullington *et al.* | *Scientific Reports* | Insufficient sampling constrains our characterization of plant microbiomes | [Link](https://www.nature.com/articles/s41598-021-83153-9) |
+| 2021 | Zheng *et al.* | *New Phytologist* | Assembly processes lead to divergent soil fungal communities within and among 12 forest ecosystems along a latitudinal gradient | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17457) |
+| 2021 | Bukovska *et al.* | *Frontiers in Microbiology* | Arbuscular mycorrhizal mediates efficient recycling from soil to plants of nitrogen bound in chitin | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.574060/full) |
+| 2021 | Chang *et al.* | *Frontiers in Microbiology* | The structure of rhizosphere fungal communities of wild and domesticated rice: changes in diversity and co-occurrence patterns | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.610823/full) |
+| 2021 | Deng *et al.* | *Frontiers in Microbiology* | Rhizosphere microbial communities are significantly affected by optimized phosphorus management in a slope farming system | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.739844/full) |
+| 2021 | Tsiknia *et al.* | *FEMS Microbiology Ecology* | Strong host-specific selection and over-dominance characterize arbuscular mycorrhizal fungal root colonizers of coastal sand dune plants of the Mediterranean region | [Link](https://academic.oup.com/femsec/article/97/9/fiab109/6329680) |
+| 2021 | Davison *et al.* | *New Phytologist* | Temperature and pH define the realised niche space of arbuscular mycorrhizal fungi | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17240) |
+| 2021 | Vasar *et al.* | *Microorganisms* | Arbuscular mycorrhizal fungal communities in the soils of desert habitats | [Link](https://www.mdpi.com/2076-2607/9/2/229) |
+| 2021 | Kolarikova *et al.* | *New Phytologist* | PacBio sequencing of Glomeromycota rDNA: a novel amplicon covering all widely used ribosomal barcoding regions and its applicability in taxonomy and ecology of arbuscular mycorrhizal fungi | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17372)|
+| 2021 | Guzman *et al.* | *New Phytologist* | Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17306) |
+| 2021 | Faghihinia *et al.* | *Microbial Ecology* | Grazing intensity rather than host plant's palatability shapes the community of arbuscular mycorrhizal fungi in a steppe grassland | [Link](https://link.springer.com/article/10.1007/s00248-021-01920-7) |
+| 2021 | Fu *et al.* | *New Phytologist* | Community response of arbuscular mycorrhizal fungi to extreme drought in a cold-temperate grassland | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17692) |
+| 2021 | Wahdan *et al.* | *Environmental Microbiology* | Organic agricultural practice enhances arbuscular mycorrhizal symbiosis in correspondence to soil warming and altered precipitation patterns | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15492) |
+| 2021 | Lin *et al.* | *Frontiers in Microbiology* | Impacts of urbanization undermine nestedness of the plant-arbuscular mycorrhizal fungal network | [link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.626671/full) |
+| 2021 | Zhang *et al.* | *Molecular Ecology* | Ecological stoichiometry and fungal community turnover reveal variation among mycorrhizal partners in their responses to warming and drought | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16278) |
+| 2021 | Cesaro *et al.* | *Frontiers in Microbiology* | Native AMF communities in an Italian vineyard at two different phenological stages of Vitis vinifera | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.676610/full) |
+| 2022 | Rasmussen *et al.* | *New Phytologist* | Elevation and plant species identity jointly shape a diverse arbuscular mycorrhizal fungal community in the high Arctic | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18342) |
+| 2022 | Ducousso-Detrez *et al.* | *Microorganisms* | Glomerales dominate arbuscular mycorrhizal fungal communities associated with spontaneous plants in phosphate-rich soils of former rock phosphate mining sites| [Link](https://www.mdpi.com/2076-2607/10/12/2406) |
+| 2022 | Peng *et al.* | *Frontiers in Ecology and Evolution* | Effects of nitrogen addition and seasonal change on arbuscular mycorrhial fungi community diversity in a poplar plantation | [Link](https://www.frontiersin.org/articles/10.3389/fevo.2022.1101698/full) |
+| 2022 | Cao *et al.* | *Frontiers in Ecology and Evolution | Root system-rhizosphere soil-bulk soil interactions in different Chinese fir clones based on fungi community diversity change | [Link](https://www.frontiersin.org/articles/10.3389/fevo.2022.1028686/full) |
+| 2022 | Xiang *et al.* | *Frontiers in Microbiology* | Positive feedback between peanut and arbuscular mycorrhizal fungi with the application of hairy vetch in ultisol | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1002459/full) |
+| 2022 | Wu *et al.* | *New Phytologist* | Identifying thresholds of nitrogen enrichment for substantial shifts in arbuscular mycorrhizal fungal community metrics in a temperate grassland of northern China | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18516) |
+| 2022 | Zhou *et al.* | *Frontiers in Microbiology* | Soil moisture and pH differentially drive arbuscular mycorrhizal fungal composition in the riparian zone along an alpine river of Nam Co watershed | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.994918/full) |
+| 2022 | Edlinger *et al.* | *Nature Ecology & Evolution* | Agricultural management and pesticide use reduce the functioning of beneficial plant symbionts | [Link](https://www.nature.com/articles/s41559-022-01799-8) |
+| 2022 | Xin *et al.* | *Microorganisms* | Legacy effects of biochar and compost addition on arbuscular mycorrhizal fungal community and co-occurrence network in black soil | [Link](https://www.mdpi.com/2076-2607/10/11/2137) |
+| 2022 | Geml *et al.* | *Molecular Ecology* | Community dynamics of soil-borne fungal communities along elevation gradients in neotropical and palaeotropical forests | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16368) |
+| 2022 | Yang *et al.* | *Frontiers in Microbiology* | Fallow land enhances carbon sequestration in glomalin and soil aggregates through regulating diversity and network complexity of arbuscular mycorrhizal fungi under climate change in relatively high-latitude regions | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.930622/full) |
+| 2022 | Whitehead *et al.* | *Frontiers in Microbiology* | Soil microbial communities shift along an urban gradient in Berlin, Germany | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.972052/full) |
+| 2022 | Lastovetsky *et al.* | *Environmental Microbiology* | Evidence of a selective and bi-directional relationship betwen arbuscular mycorrhizal fungal and bacterial communities co-inhabiting plant roots | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16227) |
+| 2022 | Gao *et al.* | *Nature Communications* | Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities | [Link](https://www.nature.com/articles/s41467-022-31343-y) |
+| 2022 | Leroy *et al.* | *Oikos* | Ontogenetic changes in root traits and root-associated fungal community composition in a heteroblastic epiphytic bromeliad | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.09213) |
+| 2022 | Qiao *et al.* | *Frontiers in Microbiology* | Arbuscular mycorrhizal fungi contribute to wheat yield in an agroforestry system with different tree ages | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1024128/full) |
+| 2022 | Darriaut *et al.* | *Frontiers in Microbiology* | Soil composition and rootstock genotype drive the root associated microbial communities in young grapvines | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1031064/full) |
+| 2022 | Zhang *et al.* | *Frontiers in Microbiology* | Mixed conifer-broadleaf trees on arbuscular mycorrhizal and ectomycorrhizal communities in rhizosphere soil of different plantation stands in the temperate zone, Northeast China | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.986515/full) |
+| 2022 | Liu *et al.* | *Forests* | Contribution of arbuscular mycorrhizal fungal communities to soil carbon accumulation during the development of Cunninghamia lanceolata plantations | [Link](https://www.mdpi.com/1999-4907/13/12/2099) |
+| 2022 | Babalola *et al.* | *New Phytolohist* | Nitrogen fertilisation disrupts the temporal dynamics of arbuscular mycorrhizal fungal hyphae but not spore density and community composition in a wheat field | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18043) |
+| 2022 | Qin *et al.* | *Frontiers in Microbiology* | Mowing did not alleviate the negative effect of nitrogen addition on the arbuscular mycorrhizal fungal community in a temperate meadow grassland | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2022.917645/full) |
+| 2022 | Kajihara *et al.* | *New Phytologist* | Core arbuscular mycorrhizal fungi are predicted by their high abundance-occupancy relationship while host-specific taxa are rare and geographically structured | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18058) |
+| 2022 | Rezacova *et al.* | *Environmental Microbiology Reports* | The root-associated arbuscular mycorrhizal fungal assemblages of exotic alien plants are simplified in invaded distribution ranges, but dominant species are retained: a trans-continental perspective | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.13108) |
+| 2022 | Zhang *et al.* | *Environmental Microbiology* | Distinct community assembly and co-existence of arbuscular mycorrhizal fungi and diazotrophs  across large-scale soil fertility to improve functions in alfalfa cultivation systems | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16176) |
+| 2022 | Prada-Salcedo *et al.* | *Frontiers in Microbiology* | Effects of tree composition and soil depth on structure and functionality of belowground microbial communities in temperate European forests | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.920618/full) |
+| 2022 | Gomes *et al.* | *New Phytologist* | Mycoheterotrophic plants preferentially target arbuscular mycorrhizal fungi that are highly connected to autotrophic plants | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18310) |
+| 2023 | Mi *et al.* | *Journal of Fungi* | Soil mercury pollution changes soil arbuscular mycorrhizal fungal community composition | [Link](https://www.mdpi.com/2309-608X/9/4/395) |
+| 2023 | Mai *et al.* | *Frontiers in Environmental Science* | Characteristics of the soil arbuscular mycorrhizal fungal community along succession stages in tropical forest and its driving factors | [Link](https://www.frontiersin.org/articles/10.3389/fenvs.2022.1110655/full) |
+| 2023 | Ramana *et al.* | *New Phytologist* | Root diameter, host specificity and arbuscular mycorrhizal fungal community composition among native and exotic plant species | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18911) |
+| 2023 | Feng *et al.* | *Frontiers in Microbiology* | Cooperation of arbuscular mycorrhizal fungi and bacteria to facilitate the host plant growth dependent on soil pH | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1116943/full) |
+| 2023 | Horsch *et al.* | *New Phytologist* | Trait-based assembly of arbuscular mycorrhizal fungal communities determines soil carbon formation and retention | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18914) |
+| 2023 | Han *et al.* | *Frontiers in Plant Science* | Multidimensional analysis reveals environmental factors that affect community dynamics of arbuscular mycorrhizal fungi in poplar roots | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2022.1068527/full) |
+| 2023 | Xiao *et al.* | *Journal of Fungi* | Assessing the effect of slope position on the community assemblage of soil diazotrophs and root arbuscular mycorrhizal fungi | [Link](https://www.mdpi.com/2309-608X/9/4/394) |
+| 2023 | Xi *et al.* | *New Phytologist* | Light availability and plant shade tolerance modify plant-microbial interactions and feedbacks in subtropical trees | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18737) |
+| 2023 | Carrell *et al.* | *Frontiers in Microbiology* | Nitrogen addition alters soil fungal communities, but root fungal communities are resistant to change | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1033631/full) |
+| 2023 | Moravcova *et al.* | *FEMS Microbiology Ecology* | Climate-driven shifts in plant and fungal communities can lead to topsoil carbon loss in alpine ecosystems | [Link](https://academic.oup.com/femsec/article/99/5/fiad041/7110974) |
+| 2023 | Valentin *et al.* | *PeerJ* | Modeling geographic distribution of arbuscular mycorrhizal fungi from molecular evidence in soils of Argentinean Puna using a maximum entropy approach | [Link](https://peerj.com/articles/14651/) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
