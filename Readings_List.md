@@ -190,6 +190,32 @@
 | 2013 | Freschet *et al.* | *Journal of Ecology* | Linking litter decomposition of above- and below-ground organs to plant-soil feedbacks worldwide | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.12092) |
 | 2022 | Yan *et al.* | *New Phytologist* | Mycorrhizal symbiosis pathway and edaphic fertility frame root economics space among tree species | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18066) |
 | 2015 | Siefert *et al.* | *Ecology Letters* | A global meta-analysis of the relative extent of intraspecific trait variation in plant communities | [Link](https://onlinelibrary.wiley.com/doi/10.1111/ele.12508) |
+| 2015 | Eissenstat *et al.* | *New Phytologist* | Linking root traits to nutrient foraging in arbuscular mycorrhizal trees in a temperate forest | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13451) |
+| 2015 | Liu *et al.* | *New Phytologist* | Complementarity in nutrient foraging strategies of absorptive fine roots and arbuscular mycorrhizal fungi across 14 coexisting subtropical tree species | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13434) |
+| 2016 | Chen *et al.* | *PNAS* | Root morphology and mycorrhizal symbioses together shape nutrient foraging strategies of temperate trees | [Link](https://www.pnas.org/doi/full/10.1073/pnas.1601006113) |
+| 2018 | Ma *et al.* | *Nature* | Evolutionary history resolves global organization of root functional traits | [Link](https://www.nature.com/articles/nature25783) |
+| 2017 | McCormack *et al.* | *New Phytologist* | Building a better foundation: improving root-trait measurement to undersand and model plant and ecosystem processes | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14459) |
+| 2015 | McCormack *et al.* | *New Phytologist* | Redefining fine roots improves understanding of below-ground contributions to terrestrial biosphere processes | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13363) |
+| 2019 | McCormack & Iversen | *Frontiers in Plant Science* | Physical and functional constraints on viable belowgroud acquisition strategies | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2019.01215/full) |
+| 2014 | Warren *et al.* | *New Phytologist* | Root structural and functional dynamics in terrestrial biosphere models - evaluation and recommendations | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13034) |
+| 2014 | Iversen *et al.* | *New Phytologist* | The unseen iceberg: plant roots in arctic tundra | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13003) |
+| 2014 | Wullschleger *et al.* | *Annals of Botany* | Plant functional types in Earth system models: past experiences and future directions for application of dynamic vegetation models in high-latitude ecosystems | [Link](https://academic.oup.com/aob/article/114/1/1/225169?login=true) |
+| 2020 | Walker *et al.* | *New Phytologist* | Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO<sub>2<sub> | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16866) |
+| 2018 | Bjorkman *et al.* | *Nature* | Plant functional trait change across a warming tundra biome | [Link](https://www.nature.com/articles/s41586-018-0563-7) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
