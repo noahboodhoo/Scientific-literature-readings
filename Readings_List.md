@@ -200,6 +200,16 @@
 | 2020 | Walker *et al.* | *New Phytologist* | Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO<sub>2<sub> | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16866) |
 | 2018 | Bjorkman *et al.* | *Nature* | Plant functional trait change across a warming tundra biome | [Link](https://www.nature.com/articles/s41586-018-0563-7) |
 | 2023 | Hiiesalu *et al.* | *FEMS Microbiology Ecology* | Plant-symbiotic fungal diversity tracks variation in vegetation and the abiotic environmental along an extended elevational gradient in the Himalayas | [Link](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiad092/7240730) |
+| 2023 | Zheng *et al.* | *New Phytologist* | Conservation of beneficial microbes between the rhizosphere and the cyanosphere | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19225) |
+| 2023 | Weber & Iversen | *New Phytologist* | How deep should we go to understand roots at the top of the world? | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19220) |
+| 2023 | Parker & Clemmensen | *New Phytologist* | Understanding the role of fungi in peatland degradation after drainage | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19196) |
+| 2023 | Wu *et al.* | *New Phytologist* | Soil organic matter dynamics mediated by arbuscular mycorrhizal fungi - an updated conceptual framework | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19178) |
+| 2023 | Lucas *et al.* | *New Phytologist* | The soil pore structure encountered by roots affects plant-derived carbon inputs and fate | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19159) |
+| 2023 | He *et al.* | *Journal of Ecology* | Leaf litter presence in the non-growing season prolongs plant legacy effects on soil fungal communities and succeeding plant growth | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14157) |
+| 2023 | Fahey *et al.* | *Journal of Ecology* | Soil fungal communities contribute to the positive diversity-productivity relationship of tree communities under contrasting water availability | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14159) |
+| 2023 | Lyu *et al.* | *Journal of Ecology* | Litter quality controls tradeoffs in soil carbon decomposition and replenishment in a subtropical forest | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14167) |
+| 2023 | Wang *et al.* | *Journal of Ecology* | Grassland degradation affects the response of soil bacterial and plant but not fungal diversity to nitrogen addition | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14179) |
+| 2023 | Sapsford & Dickie | *Journal of Ecology* | Slow soil enzyme recovery following invasive tree removal through gradual changes in bacterial and fungal communities | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14186) |
 
 
 
