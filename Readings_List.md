@@ -1,7 +1,5 @@
 **Future Scientific Ltierature Readings**
 
-**Consider adding publications from Catherine Roumet, Gregoire Freschet, Michael Luke McCormack, David Eissenstat, Colleen Iversen**
-
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
 | 2012 | Chagnon *et al.* | *New Phytologist* | Using ecological network theory to evaluate the causes and consequences of arbuscular mycorrhizal community structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2011.04044.x) |
@@ -201,6 +199,7 @@
 | 2014 | Wullschleger *et al.* | *Annals of Botany* | Plant functional types in Earth system models: past experiences and future directions for application of dynamic vegetation models in high-latitude ecosystems | [Link](https://academic.oup.com/aob/article/114/1/1/225169?login=true) |
 | 2020 | Walker *et al.* | *New Phytologist* | Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO<sub>2<sub> | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16866) |
 | 2018 | Bjorkman *et al.* | *Nature* | Plant functional trait change across a warming tundra biome | [Link](https://www.nature.com/articles/s41586-018-0563-7) |
+| 2023 | Hiiesalu *et al.* | *FEMS Microbiology Ecology* | Plant-symbiotic fungal diversity tracks variation in vegetation and the abiotic environmental along an extended elevational gradient in the Himalayas | [Link](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiad092/7240730) |
 
 
 
