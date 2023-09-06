@@ -209,6 +209,7 @@
 | 2023 | Lyu *et al.* | *Journal of Ecology* | Litter quality controls tradeoffs in soil carbon decomposition and replenishment in a subtropical forest | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14167) |
 | 2023 | Wang *et al.* | *Journal of Ecology* | Grassland degradation affects the response of soil bacterial and plant but not fungal diversity to nitrogen addition | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14179) |
 | 2023 | Sapsford & Dickie | *Journal of Ecology* | Slow soil enzyme recovery following invasive tree removal through gradual changes in bacterial and fungal communities | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14186) |
+| 2023 | Treseder | *Journal of Ecology* | Ecological strategies of microbes: thinking outside the triangle | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14115) |
 
 
 
