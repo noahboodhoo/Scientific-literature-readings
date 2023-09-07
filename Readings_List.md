@@ -209,6 +209,8 @@
 | 2023 | Wang *et al.* | *Journal of Ecology* | Grassland degradation affects the response of soil bacterial and plant but not fungal diversity to nitrogen addition | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14179) |
 | 2023 | Sapsford & Dickie | *Journal of Ecology* | Slow soil enzyme recovery following invasive tree removal through gradual changes in bacterial and fungal communities | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14186) |
 | 2023 | Treseder | *Journal of Ecology* | Ecological strategies of microbes: thinking outside the triangle | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14115) |
+| 2023 | Li *et al.* | *Biology and Fertility of Soils* | Fixation of CO<sub>2<sub> by soil fungi: contribution to organic carbon pool and destination of fixed carbon products | [Link](https://link.springer.com/article/10.1007/s00374-023-01750-4?utm_source=toc&utm_medium=email&utm_campaign=toc_374_59_7&utm_content=etoc_springer_20230907) |
+
 
 
 
