@@ -211,6 +211,9 @@
 | 2023 | Li *et al.* | *Biology and Fertility of Soils* | Fixation of CO<sub>2</sub> by soil fungi: contribution to organic carbon pool and destination of fixed carbon products | [Link](https://link.springer.com/article/10.1007/s00374-023-01750-4?utm_source=toc&utm_medium=email&utm_campaign=toc_374_59_7&utm_content=etoc_springer_20230907) |
 | 2023 | Wang *et al.* | *New Phytologist* | Context-dependent plant responses to arbuscular mycorrhiza mainly reflect biotic experimental settings | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19108) |
 | 2023 | Cheng *et al.* | *New Phytologist* | Host plant height explains the effect of nitrogen enrichment on arbuscular mycorrhizal fungal communities | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19140) |
+| 2023 | Krohs & Zimmer | *Ecology and Evolution* | Do ecosystems have functions? | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10458?campaign=woletoc) |
+| 2023 | Hennecke *et al.* | *New Phytologist* | Responses of rhizosphere fungi to the root economics space in grassland monocultures of different age | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19261?campaign=wolearlyview) |
+
 
 
 
