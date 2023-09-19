@@ -211,7 +211,7 @@
 | 2023 | Hennecke *et al.* | *New Phytologist* | Responses of rhizosphere fungi to the root economics space in grassland monocultures of different age | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19261?campaign=wolearlyview) |
 | 2023 | Bei *et al.* | *ISME Journal* | Extreme summers impact cropland and grassland soil microbiomes | [Link](https://www.nature.com/articles/s41396-023-01470-5?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
 | 2023 | Sun *et al.* | *ISME Journal* | Hyphopshere microorganisms facilitate hyphal spreading and root colonization of plant symbiotic fungus in ammonium-enriched soil | [Link](https://www.nature.com/articles/s41396-023-01476-z?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
-
+| 2023 | Wood *et al.* | *ISME Journal* | Rethinking CSR theory to incorporate microbial metabolic diversity and foraging traits | [Link](https://www.nature.com/articles/s41396-023-01486-x) |
 
 
 
