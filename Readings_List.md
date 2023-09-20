@@ -204,14 +204,12 @@
 | 2023 | Lyu *et al.* | *Journal of Ecology* | Litter quality controls tradeoffs in soil carbon decomposition and replenishment in a subtropical forest | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14167) |
 | 2023 | Wang *et al.* | *Journal of Ecology* | Grassland degradation affects the response of soil bacterial and plant but not fungal diversity to nitrogen addition | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14179) |
 | 2023 | Sapsford & Dickie | *Journal of Ecology* | Slow soil enzyme recovery following invasive tree removal through gradual changes in bacterial and fungal communities | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14186) |
-| 2023 | Treseder | *Journal of Ecology* | Ecological strategies of microbes: thinking outside the triangle | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14115) |
 | 2023 | Li *et al.* | *Biology and Fertility of Soils* | Fixation of CO<sub>2</sub> by soil fungi: contribution to organic carbon pool and destination of fixed carbon products | [Link](https://link.springer.com/article/10.1007/s00374-023-01750-4?utm_source=toc&utm_medium=email&utm_campaign=toc_374_59_7&utm_content=etoc_springer_20230907) |
 | 2023 | Wang *et al.* | *New Phytologist* | Context-dependent plant responses to arbuscular mycorrhiza mainly reflect biotic experimental settings | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19108) |
 | 2023 | Cheng *et al.* | *New Phytologist* | Host plant height explains the effect of nitrogen enrichment on arbuscular mycorrhizal fungal communities | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19140) |
 | 2023 | Hennecke *et al.* | *New Phytologist* | Responses of rhizosphere fungi to the root economics space in grassland monocultures of different age | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19261?campaign=wolearlyview) |
 | 2023 | Bei *et al.* | *ISME Journal* | Extreme summers impact cropland and grassland soil microbiomes | [Link](https://www.nature.com/articles/s41396-023-01470-5?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
 | 2023 | Sun *et al.* | *ISME Journal* | Hyphopshere microorganisms facilitate hyphal spreading and root colonization of plant symbiotic fungus in ammonium-enriched soil | [Link](https://www.nature.com/articles/s41396-023-01476-z?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
-| 2023 | Wood *et al.* | *ISME Journal* | Rethinking CSR theory to incorporate microbial metabolic diversity and foraging traits | [Link](https://www.nature.com/articles/s41396-023-01486-x) |
 | 2023 | Cerca | *Molecular Ecology* | Understanding natural selection and similarity: convergent, parallel and repeated evolution | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17132?campaign=wolearlyview) |
 
 
