@@ -16,6 +16,7 @@
 | 2004 | De La Providencia | *New Phytologist* | Arbuscular mycorrhizal fungi reveal distinct patterns of anastomosis formation and hyphal healing mechanisms between different phylogenic groups| [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01236.x) |
 | 2004 | Koch et al. | *PNAS* | High genetic variability and low local diversity in a population of arbuscular mycorrhizal fungi | [Link](https://www.pnas.org/doi/full/10.1073/pnas.0306441101) |
 | 2004 | Munkvold et al. | *New Phytologist* | High functional diversity within species of arbuscular mycorrhizal fungi | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01169.x) |
+| 2004 | Wright et al. | *Nature* | The worldwide leaf economics spectrum | [Link](https://www.nature.com/articles/nature02403) |
 | 2005 | Hart & Reader | *Pedobiologia* | The role of the external mycelium in early colonization for three arbuscular mycorrhizal fungal species with different colonization strategies | [Link](https://www.sciencedirect.com/science/article/pii/S0031405605000065?via%3Dihub) |
 | 2005 | Koch et al. | *Ecology Letters* | Genetic variability in a population of arbuscular mycorrhizal fungi causes variation in plant growth | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2005.00853.x)|
 | 2007 | Maherali & Klironomos | *Science* | Influence of phylogeny on fungal community assembly and ecosystem functioning | [Link](https://www.science.org/doi/10.1126/science.1143082) |
@@ -82,6 +83,7 @@
 | 2017 | Tecon & Or | *FEMS Microbiology Reviews* | Biophysical processes supporting the diversity of microbial life in soil | [Link](https://academic.oup.com/femsre/article/41/5/599/4082850?login=true) |
 | 2017 | Agegnehu *et al.* | *Applied Soil Ecology* | The role of biochar and biochar-compost in improving soil quality and crop performance: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139316304954?via%3Dihub) | 
 | 2017 | McCormack *et al.* | *New Phytologist* | Building a better foundation: improving root-trait measurement to undersand and model plant and ecosystem processes | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14459) |
+| 2017 | Walker et al. | *New Phytologist* | Trait covariance: the functional warp of plant diversity? | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14853) |
 | 2017 | Rodriguez-Echeverria *et al.* | *New Phytologist* | Arbuscular mycorrhizal fungi communities from tropical Africa reveal strong ecological structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14122) |
 | 2017 | Sheldrake *et al.* | *New Phytologist* | Arbuscular mycorrhizal fungal community composition is altered by long-term litter removal but not litter addition in a lowland tropical forest | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14384) |
 | 2017 | Xu *et al.* | *Scientific Reports* | Land use alters arbuscular mycorrhizal fungal communities and their potential role in carbon sequestration on the Tibetan Plateau | [Link](https://www.nature.com/articles/s41598-017-03248-0) |
@@ -180,6 +182,7 @@
 | 2021 | Zhang *et al.* | *Molecular Ecology* | Ecological stoichiometry and fungal community turnover reveal variation among mycorrhizal partners in their responses to warming and drought | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16278) |
 | 2021 | Cesaro *et al.* | *Frontiers in Microbiology* | Native AMF communities in an Italian vineyard at two different phenological stages of Vitis vinifera | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.676610/full) |
 | 2022 | Sokol *et al.* | *Functional Ecology* | Global distribution, formation and fate of mineral-associated soil organic matter under a changing climate: a trait-based perspective | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14040) |
+| 2022 | Sokol et al. | *Nature Reviews Microbiology* | Life and death in the soil microbiome: how ecological processes influence biogeochemistry | [Link](https://www.nature.com/articles/s41579-022-00695-z) |
 | 2022 | Goberna & Verdu | *Soil Biology and Biochemistry* | Cautionary notes on the use of co-occurrence networks in soil ecology | [Link](https://www.sciencedirect.com/science/article/pii/S0038071721004089?via%3Dihub) | 
 | 2022 | Iqbal *et al.* | *Applied Soil Ecology* | Impacts of soil microplastics on crops: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002967?via%3Dihub) |
 | 2022 | Islam *et al.* | *Applied Soil Ecology* | Microbial carbon use efficiency of glucose varies with soil clay content: a meta-analysis | [Link](https://www.sciencedirect.com/science/article/pii/S0929139322002529?via%3Dihub) |
