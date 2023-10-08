@@ -7,6 +7,8 @@
 | 2001 | Hart et al. | *Mycologia* | Life-history strategies of arbuscular mycorrhizal fungi in relation to their successional dynamics | [Link](https://www.tandfonline.com/doi/abs/10.1080/00275514.2001.12063251) |
 | 2001 | Klironomos et al. | *Canadian Journal of Botany* | Interspecific differences in the tolerance of arbuscular mycorrhizal fungi to freezing and drying | [Link](https://cdnsciencepub.com/doi/10.1139/b01-099) |
 | 2002 | Pringle & Bever | *American Journal of Botany* | Divergent phenologies may facilitate the coexistence of arbuscular mycorrhizal fungi in a North Carolina grassland | [Link](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.89.9.1439) |
+2002 | Hart & Reader | *Biology and Fertility of Soils* | Host plant benefit from association with arbuscular mycorrhizal fungi: variation due to differences in size of mycelium | [Link](https://link.springer.com/article/10.1007/s00374-002-0539-4?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot) |
+| 2002 | Hart & Reader | *New Phytologist* | Taxonomic basis for variation in the colonization strategy of arbuscular mycorrhizal fungi | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1046/j.0028-646X.2001.00312.x) |
 | 2003 | Hansson | *Oikos* | Why ecology fails at application: should we consider variability more than regularity | [Link](https://onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0706.2003.12479.x) |
 | 2003 | Staddon et al. | *Science* | Rapid turnover of hyphae of mycorrhizal fungi determined by AMS microanalysis of <sup>14</sup>C | [Link](https://www.science.org/doi/10.1126/science.1084269) |
 | 2003 | Lerat et al. | *New Phytologist* | Carbon partitioning in a split-root system of arbuscular mycorrhizal plants is fungal and plant species dependent | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1046/j.1469-8137.2003.00691.x) |
@@ -19,7 +21,7 @@
 | 2007 | Maherali & Klironomos | *Science* | Influence of phylogeny on fungal community assembly and ecosystem functioning | [Link](https://www.science.org/doi/10.1126/science.1143082) |
 | 2008 | Bever et al. | *Ecology Letters* | Preferential allocation to beneficial symbiont with spatial structure maintains mycorrhizal mutualism | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2008.01254.x) |
 | 2009 | Oehl et al. | *Agriculture, Ecosystems & Environment* | Distinct sporulation dynamics of arbuscular mycorrhizal fungal communities from different agroecosystems in long-term microcosms | [Link](https://www.sciencedirect.com/science/article/pii/S0167880909002266?via%3Dihub) | 
-| 2009 | Gamper et al. | *New Phytologist* | Molecular trait indicators: moving beyond phylogeny in arbuscular mycorrhizal ecology | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03058.x) | 2002 | Hart & Reader | *Biology and Fertility of Soils* | Host plant benefit from association with arbuscular mycorrhizal fungi: variation due to differences in size of mycelium | [Link](https://link.springer.com/article/10.1007/s00374-002-0539-4?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot) |
+| 2009 | Gamper et al. | *New Phytologist* | Molecular trait indicators: moving beyond phylogeny in arbuscular mycorrhizal ecology | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03058.x) | 
 | 2009 | Ehinger et al. | *New Phytologist* | Changes in arbuscular mycorrhizal fungal phenotypes and genotypes in response to plant species identity and phosphorus concentration | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2008.01254.x) |
 | 2009 | Powell et al. | *Proceedings of the Royal Society B Biological Sciences | Phylogenetic trait conservatism and the evolution of functional trade-offs in arbuscular mycorrhizal fungi | [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.1015)|
 | 2009 | Johnson | *New Phytologist* | Resource stoichiometry elucidates the structure and function of arbuscular mycorrhizas across scales | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03110.x) |
@@ -91,6 +93,7 @@
 | 2017 | Horn *et al.* | *ISME Journal* | Linking the community structure of arbuscular mycorrhizal fungi and plants: a story of interdependence? | [Link](https://www.nature.com/articles/ismej20175) |
 | 2017 | Koorem *et al.* | *Plant and Soil* | Arbuscular mycorrhizal fungal communities in forest plant roots are simultaneously shaped by host characteristics and canopy-mediated light availability | [Link](https://link.springer.com/article/10.1007/s11104-016-3004-0) |
 | 2017 | Kotilinek *et al.* | *Scientific Reports* | Fungal root symbionts of high-altitude vascular plants in the Himalayas | [Link](https://www.nature.com/articles/s41598-017-06938-x) |
+| 2017 | Koch et al. | *New Phytologist* | Evolutionary asymmetry in the arbuscular mycorrhizal symbiosis: conservatism in fungal morphology does not predict host plant growth | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14465) |
 | 2017 | Chen *et al.* | *Soil Biology and Biochemistry* | Nitrogen deposition and precipitation induced phylogenetic clustering of arbuscular mycorrhizal fungal communities | [Link](https://www.sciencedirect.com/science/article/pii/S0038071717302912) | 
 | 2017 | Dignac *et al.* | *Agronomy for Sustainable Development* | Increasing soil carbon storage: mechanisms, effects of agricultral practices and proxies. A review | [Link](https://link.springer.com/article/10.1007/s13593-017-0421-2) |
 | 2017 | Valverde-Barrantes *et al.* | *New Phytologist* | A worldview of root traits: the influence of ancestry, growth form, climate and mycorrhizal association on the functional trait variation of fine-root tissues in seed plants | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14571) |
@@ -240,6 +243,8 @@
 | 2023 | Bei *et al.* | *ISME Journal* | Extreme summers impact cropland and grassland soil microbiomes | [Link](https://www.nature.com/articles/s41396-023-01470-5?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
 | 2023 | Sun *et al.* | *ISME Journal* | Hyphopshere microorganisms facilitate hyphal spreading and root colonization of plant symbiotic fungus in ammonium-enriched soil | [Link](https://www.nature.com/articles/s41396-023-01476-z?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
 | 2023 | Cerca | *Molecular Ecology* | Understanding natural selection and similarity: convergent, parallel and repeated evolution | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17132?campaign=wolearlyview) |
+| 2023 | Zhang et al. | *Molecular Ecology* | Ecological stoichiometry and fungal community turnover reveal variation among mycorrhizal partners in their responses to warming and drought | [Link](https://onlinelibrary.wiley.com/doi/10.1111/mec.16278) |
+
 
 
 
