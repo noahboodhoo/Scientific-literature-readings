@@ -246,6 +246,13 @@
 | 2023 | Sun *et al.* | *ISME Journal* | Hyphopshere microorganisms facilitate hyphal spreading and root colonization of plant symbiotic fungus in ammonium-enriched soil | [Link](https://www.nature.com/articles/s41396-023-01476-z?utm_source=ismej_etoc&utm_medium=email&utm_campaign=toc_41396_17_10&utm_content=20230916) |
 | 2023 | Cerca | *Molecular Ecology* | Understanding natural selection and similarity: convergent, parallel and repeated evolution | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17132?campaign=wolearlyview) |
 | 2023 | Zhang et al. | *Molecular Ecology* | Ecological stoichiometry and fungal community turnover reveal variation among mycorrhizal partners in their responses to warming and drought | [Link](https://onlinelibrary.wiley.com/doi/10.1111/mec.16278) |
+| 2023 | Schmera et al. | *Journal of Ecology* | Components of functional diversity revisited: a new classification and its theoretical and practical applications | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10614?campaign=woletoc) |
+| 2023 | Heredia-Acuna et al. | *Journal of Ecology* | Root litter decomposition is suppressed in species mixtures and in the presence of living roots | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14207?campaign=wolearlyview) |
+| 2023 | Geng et al. | *Ecology and Evolution* | Changes in nitrogen and phosphorus availablity driven by secondary succession in temperate forests shape soil fungal communities and function | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10593?campaign=woletoc) |
+
+
+
+
 
 
 
