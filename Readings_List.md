@@ -246,6 +246,7 @@
 | 2023 | Schmera et al. | *Ecology of Evolution* | Components of functional diversity revisited: a new classification and its theoretical and practical applications | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10614?campaign=woletoc) |
 | 2023 | Heredia-Acuna et al. | *Journal of Ecology* | Root litter decomposition is suppressed in species mixtures and in the presence of living roots | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14207?campaign=wolearlyview) |
 | 2023 | Geng et al. | *Ecology and Evolution* | Changes in nitrogen and phosphorus availablity driven by secondary succession in temperate forests shape soil fungal communities and function | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10593?campaign=woletoc) |
+| 2023 | Li et al. | *Frontiers in Microbiology* | Soil microbial community parameters affected by microplastics and other plastic residues | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1258606/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2234071_a0P58000000G0Y5EAK_Microb_20231019_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2234071&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
 
 
 
