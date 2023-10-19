@@ -25,4 +25,5 @@ Here are my daily scientific literature readings!
 | October 8, 2023 | 2002 | Hart & Reader | *New Phytologist* | Taxonomic basis for variation in the colonization strategy of arbuscular mycorrhizal fungi | Experimental study | AMF functional trait | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1046/j.0028-646X.2001.00312.x) |
 | October 16, 2023| 2017 | Koch et al. | *New Phytologist* | Evolutionary asymmetry in the arbuscular mycorrhizal symbiosis: conservatism in fungal morphology does not predict host plant growth | Experimental study | AMF functional trait | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14465) |
 | October 17, 2023 | 2017 | Walker et al. | *New Phytologist* | Trait covariance: the functional warp of plant diversity? | Opinion paper | Trait-based ecology | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14853) |
+| October 18, 2023 | 2022 | Sokol et al. | *Nature Reviews Microbiology* | Life and death in the soil microbiome: how ecological processes influence biogeochemistry | Review | Soil ecological processes| [Link](https://www.nature.com/articles/s41579-022-00695-z) |
 
