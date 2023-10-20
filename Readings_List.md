@@ -261,6 +261,9 @@
 | 2023 | Heredia-Acuna et al. | *Journal of Ecology* | Root litter decomposition is suppressed in species mixtures and in the presence of living roots | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14207?campaign=wolearlyview) |
 | 2023 | Geng et al. | *Ecology and Evolution* | Changes in nitrogen and phosphorus availablity driven by secondary succession in temperate forests shape soil fungal communities and function | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10593?campaign=woletoc) |
 | 2023 | Li et al. | *Frontiers in Microbiology* | Soil microbial community parameters affected by microplastics and other plastic residues | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1258606/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2234071_a0P58000000G0Y5EAK_Microb_20231019_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2234071&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
+| 2023 | Fisher et al. | *Nature Sustainability* | Human well-being responses to species' traits | [Link](https://www.nature.com/articles/s41893-023-01151-3?utm_source=natsustain_etoc&utm_medium=email&utm_campaign=toc_41893_6_10&utm_content=20231020) |
+| 2023 | Cui et al. | *Nature Sustainability* | Nitrogen cycles in global croplands altered by elevated CO2 | [Link](https://www.nature.com/articles/s41893-023-01154-0?utm_source=natsustain_etoc&utm_medium=email&utm_campaign=toc_41893_6_10&utm_content=20231020) |
+
 
 
 
