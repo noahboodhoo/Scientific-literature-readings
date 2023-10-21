@@ -64,6 +64,7 @@
 |**** 2015 | Leff *et al.* | *PNAS* | Consistent responses of soil microbial communities to elevated nutrient inputs in grasslands across the globe | [Link](https://www.pnas.org/doi/full/10.1073/pnas.1508382112) |
 |**** 2015 | van der Heidjen *et al.* | *New Phytologist* | Mycorrhizal ecology and evolution: the past, the present, and the future | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13288) |
 |**** 2015 | Rillig *et al.* | *New Phytologist* | Plant root and mycorrhizal fungal traits for understanding soil aggregation | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13045) |
+| 2015 | Laland et al. | *Proceedings of the Royal Society B Biological Sciences* | The extended evolutionary synthesis: its structure, assumptions and predictions | [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2015.1019#d1e1737) |
 | 2015 | Freschet *et al.* | *New Phytologist* | Integrated plant phenotypic responses to contrasting above- and below-ground resources: key roles of specific leaf area and root mass fraction | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13352) |
 |**** 2015 | Eissenstat *et al* | *New Phytologist* | Linking root traits to nutrient foraging in arbuscular mycorrhizal trees in a temperate forest | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.13451) |
 | 2015 | Aguilar-Trigueros et al. | *Fungal Biology Reviews* | Branching out: towards a trait-based understanding of fungal ecology | [Link](https://www.science.org/doi/10.1126/science.1143082) |
@@ -87,6 +88,7 @@
 | 2017 | Agegnehu *et al.* | *Applied Soil Ecology* | The role of biochar and biochar-compost in improving soil quality and crop performance: a review | [Link](https://www.sciencedirect.com/science/article/pii/S0929139316304954?via%3Dihub) | 
 |**** 2017 | Buchkowski et al. | *Ecology Letters* | Applying population and communitu ecology theory to advance understanding of belowgrou biogeochemistry | [Link](https://onlinelibrary.wiley.com/doi/10.1111/ele.12712) |
 |**** 2017 | McCormack *et al.* | *New Phytologist* | Building a better foundation: improving root-trait measurement to undersand and model plant and ecosystem processes | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14459) |
+| 2017 | Eme et al. | *Nature Reviews Microbiology* | Archaea and the origine of the eukaryotes | [Link](https://www.nature.com/articles/nrmicro.2017.133) |
 |**** 2017 | Fierer | *Nature Reviews Microbiology* | Embracing the unknown: disentangling the complexities of the soil microbiome | [Link](https://www.nature.com/articles/nrmicro.2017.87) |
 | 2017 | Rodriguez-Echeverria *et al.* | *New Phytologist* | Arbuscular mycorrhizal fungi communities from tropical Africa reveal strong ecological structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14122) |
 | 2017 | Sheldrake *et al.* | *New Phytologist* | Arbuscular mycorrhizal fungal community composition is altered by long-term litter removal but not litter addition in a lowland tropical forest | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14384) |
@@ -122,6 +124,7 @@
 | 2018 | Yu *et al.* | *New Phytologist* | Root type and soil phosphate determine the taxonomic landscape of colonizing fungi and the transcriptome of field-grown maize roots | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14893) |
 |**** 2018 | Davison *et al.* | *ISME Journal* | Microbial isalnd biogeography: isolation shapes the life history characteristics but not diversity of root-symbiotic fungal communities | [Link](https://www.nature.com/articles/s41396-018-0196-8) | 
 | 2018 | Kusakabe *et al.* | *Mycorrhiza* | Arbuscular mycorrhizal fungal communities under gradients of grazing in Mongolian grasslands of different aridity | [Link](https://link.springer.com/article/10.1007/s00572-018-0855-7) |
+| 2018 | Kitadai & Maruyama | *Geoscience Frontiers* | Origins of building blocks of life: a review | [Link](https://www.sciencedirect.com/science/article/pii/S1674987117301305?via%3Dihub) |
 |**** 2018 | Deveautour *et al.* | *Molecular Ecology* | Experimentally altered rainfall regimes and host root traits affect grassland arbuscular mycorrhizal fungal communities | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14536) |
 |**** 2018 | Treseder et al. | *Journal of Ecology* | Arbuscular mycorrhizal fungi as mediators of ecosystem responses to nitrogen deposition: a trait-based predictive framework | [Link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.12919) |
 |**** 2019 | Chagnon *et al.* | *Journal of Ecology* | Mycorrhizal netowrk assembly in a community context: the presence of neighbours matters | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13230) |
@@ -156,7 +159,10 @@
 | 2020 | Davison et al. | *New Phytologist* | Plant functional groups associate with distinct arbuscular mycorrhizal fungal communities | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16423) |
 | 2020 | Duenas *et al.* | *New Phytologist* | Moderate phosphorus additions consistently affect community composition of arbuscular mycorrhizal fungi in tropical montane forests in southern Ecuador | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16641) |
 |**** 2020 | Neuenkamp *et al.* | *Ecology Letters* | Light availability and light demand of plants shape the arbuscular mycorrhizal fungal communities in their roots | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13656) |
+| 2020 | Frenkel-Pinter et al. | *Chemistry Reviews* | Prebiotic peptides: molecular hubs in the origin of life | [Link](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00664) |
 |**** 2020 | Malik et al. | *ISME Journal* | Defining trait-based microbial strategies with consequences for soil carbon cycling under climate change | [Link](https://www.nature.com/articles/s41396-019-0510-0) |
+| 2020 | Damer & Deamer | *Astrobiology* | The hot spring hypothesis for an origin of life | [Link](https://www.liebertpub.com/doi/10.1089/ast.2019.2045) |
+| 2020 | Xavier et al. | *Proceedings of the Royal Society B Biological Sciences* | Autocatalytic chemical networks at th origin of metabolism | [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2377) |
 | 2020 | Delgado-Baqurizo et al. | *Nature Ecology & Evolution* | Multiple elements of soil biodiversity drive ecosystem functions across biomes | [Link](https://www.nature.com/articles/s41559-019-1084-y) |
 |**** 2020 | Nuccio et al. | *ISME Journal* | Niche differentiation is spatially and temporally regulated in the rhizosphere | [Link](https://www.nature.com/articles/s41396-019-0582-x) |
 |**** 2020 | Freschet *et al.* | *New Phytologist* | Root traits as drivers of plant and ecosystem functioning:  current understanding, pitfalls and future research needs | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17072) |
