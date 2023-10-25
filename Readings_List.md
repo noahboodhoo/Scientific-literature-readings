@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-|**** 2001 | Bever *et al.* | *BioScience* | Arbuscular mycorrhizal fungi: more diverse than meets the eye, and the ecological tale of why | [Link](https://academic.oup.com/bioscience/article/51/11/923/227109?login=true) |
 | 2001 | Kuhn et al. | *Nature* | Evidence for the evolution of multiple genomes in arbuscular mycorrhizal fungi | [Link](https://www.nature.com/articles/414745a) |
 | 2001 | Hart et al. | *Mycologia* | Life-history strategies of arbuscular mycorrhizal fungi in relation to their successional dynamics | [Link](https://www.tandfonline.com/doi/abs/10.1080/00275514.2001.12063251) |
 | 2001 | Klironomos et al. | *Canadian Journal of Botany* | Interspecific differences in the tolerance of arbuscular mycorrhizal fungi to freezing and drying | [Link](https://cdnsciencepub.com/doi/10.1139/b01-099) |
