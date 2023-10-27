@@ -27,4 +27,5 @@ Here are my daily scientific literature readings!
 | October 17, 2023 | 2017 | Walker et al. | *New Phytologist* | Trait covariance: the functional warp of plant diversity? | Opinion paper | Trait-based ecology | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.14853) |
 | October 18, 2023 | 2022 | Sokol et al. | *Nature Reviews Microbiology* | Life and death in the soil microbiome: how ecological processes influence biogeochemistry | Review | Soil ecological processes| [Link](https://www.nature.com/articles/s41579-022-00695-z) |
 | October 25, 2023 | 2001 | Bever *et al.* | *BioScience* | Arbuscular mycorrhizal fungi: more diverse than meets the eye, and the ecological tale of why | Review Paper | AMF diversity | [Link](https://academic.oup.com/bioscience/article/51/11/923/227109?login=true) |
+| October 27, 2023 | 2001 | Kuhn et al. | *Nature* | Evidence for the evolution of multiple genomes in arbuscular mycorrhizal fungi | Experimental study | AMF genetics | [Link](https://www.nature.com/articles/414745a) |
 
