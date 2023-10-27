@@ -272,6 +272,17 @@
 | 2023 | Cao et al. | *Soil Biology and Biochemistry* | Microbial interactions for nutrient acquisition in soil: miners, scavengers and carriers | [Link](https://www.sciencedirect.com/science/article/pii/S0038071723002778?dgcid=raven_sd_aip_email) |
 | 2023 | Liang et al. | *Journal of Ecology* | Positioning absorptive root respiration in the root economics space across woody and herbaceous species | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14213?campaign=wolearlyview) |
 | 2023 | Liu et al. | *Journal of Ecology* | Defoliation and fertilisation differentially moderate root trait effects on soil abiotic and biotic properties | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14215?campaign=wolearlyview) |
+| 2023 | Ermokhina et al. | *Ecology and Evolution* | The High-Low Arctic boundary: how is it determined and where is it located? | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10545?campaign=woletoc) |
+| 2023 | Shukla et al. | *Ecology and Evolution* | The diversity of animals identified as keystone species | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10561?campaign=woletoc) |
+| 2023 | Dubois | *Ecology and Evolution* | Skill trade-offs promote persistent individual differences and specialized tactics | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10578?campaign=woletoc) |
+| 2023 | Geng et al. | *Ecology and Evolution* | Changes in nitrogen and phosphorus availability driven by secondary succession in temperate forests shape soil fungal communities and function | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10593?campaign=woletoc) |
+| 2023 | Schmera et al. | *Ecology and Evolution* | Components of functional diversity revisited: a new classification and its theoretical and practical implications | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10614?campaign=woletoc) |
+
+
+
+
+
+
 
 
 
