@@ -276,6 +276,8 @@
 | 2023 | Geng et al. | *Ecology and Evolution* | Changes in nitrogen and phosphorus availability driven by secondary succession in temperate forests shape soil fungal communities and function | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10593?campaign=woletoc) |
 | 2023 | Schmera et al. | *Ecology and Evolution* | Components of functional diversity revisited: a new classification and its theoretical and practical implications | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10614?campaign=woletoc) |
 | 2023 | Perrotto & Balestrini | *New Phytologist* | At the core of the endomycorrhizal symbioses: intracellular fungal structures in orchid and arbuscular mycorrhiza | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19338?campaign=wolearlyview) |
+| 2023 | O'Brien et al. | *Evolution* | Evolutionary consequences of microbiomes for hosts: impacts on host fitness, traits, and heritability | [Link](https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad183/7310933?utm_source=advanceaccess&utm_campaign=evolut&utm_medium=email&nbd=44841427572&nbd_source=campaigner) |
+
 
 
 
