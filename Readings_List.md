@@ -277,9 +277,7 @@
 | 2023 | Schmera et al. | *Ecology and Evolution* | Components of functional diversity revisited: a new classification and its theoretical and practical implications | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10614?campaign=woletoc) |
 | 2023 | Perrotto & Balestrini | *New Phytologist* | At the core of the endomycorrhizal symbioses: intracellular fungal structures in orchid and arbuscular mycorrhiza | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19338?campaign=wolearlyview) |
 | 2023 | O'Brien et al. | *Evolution* | Evolutionary consequences of microbiomes for hosts: impacts on host fitness, traits, and heritability | [Link](https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad183/7310933?utm_source=advanceaccess&utm_campaign=evolut&utm_medium=email&nbd=44841427572&nbd_source=campaigner) |
-
-
-
+| 2023 | Li  & Gao | *Frontiers in Plant Science* | Attribution of dispersal limitation can better explain the assembly patterns of plant microbiota | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2023.1168760/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2240270_a0P58000000G0YiEAK_PlantS_20231031_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2240270&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
 
 
 
