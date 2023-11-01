@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2001 | Klironomos et al. | *Canadian Journal of Botany* | Interspecific differences in the tolerance of arbuscular mycorrhizal fungi to freezing and drying | [Link](https://cdnsciencepub.com/doi/10.1139/b01-099) |
 |**** 2002 | Pringle & Bever | *American Journal of Botany* | Divergent phenologies may facilitate the coexistence of arbuscular mycorrhizal fungi in a North Carolina grassland | [Link](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.89.9.1439) |
 |**** 2002 | Hart & Reader | *Biology and Fertility of Soils* | Host plant benefit from association with arbuscular mycorrhizal fungi: variation due to differences in size of mycelium | [Link](https://link.springer.com/article/10.1007/s00374-002-0539-4?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot) |
 | 2003 | Hansson | *Oikos* | Why ecology fails at application: should we consider variability more than regularity | [Link](https://onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0706.2003.12479.x) |
