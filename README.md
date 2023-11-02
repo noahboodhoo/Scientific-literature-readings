@@ -30,4 +30,5 @@ Here are my daily scientific literature readings!
 | October 27, 2023 | 2001 | Kuhn et al. | *Nature* | Evidence for the evolution of multiple genomes in arbuscular mycorrhizal fungi | Experimental study | AMF genetics | [Link](https://www.nature.com/articles/414745a) |7
 | October 27, 2023 | 2001 | Hart et al. | *Mycologia* | Life-history strategies of arbuscular mycorrhizal fungi in relation to their successional dynamics | Review paper | AMF life-history strategies | [Link](https://www.tandfonline.com/doi/abs/10.1080/00275514.2001.12063251) |
 | November 1, 2023 | 2001 | Klironomos et al. | *Canadian Journal of Botany* | Interspecific differences in the tolerance of arbuscular mycorrhizal fungi to freezing and drying | Experimental study | Response of AMF to freezing and drying | [Link](https://cdnsciencepub.com/doi/10.1139/b01-099) |
+|November 2, 2023 | 2002 | Pringle & Bever | *American Journal of Botany* | Divergent phenologies may facilitate the coexistence of arbuscular mycorrhizal fungi in a North Carolina grassland | Field investigation | Seasonal phenologies of AMF | [Link](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.89.9.1439) |
 
