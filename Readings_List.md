@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-|**** 2002 | Hart & Reader | *Biology and Fertility of Soils* | Host plant benefit from association with arbuscular mycorrhizal fungi: variation due to differences in size of mycelium | [Link](https://link.springer.com/article/10.1007/s00374-002-0539-4?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot) |
 | 2003 | Hansson | *Oikos* | Why ecology fails at application: should we consider variability more than regularity | [Link](https://onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0706.2003.12479.x) |
 | 2003 | Staddon et al. | *Science* | Rapid turnover of hyphae of mycorrhizal fungi determined by AMS microanalysis of <sup>14</sup>C | [Link](https://www.science.org/doi/10.1126/science.1084269) |
 |**** 2003 | Lerat et al. | *New Phytologist* | Carbon partitioning in a split-root system of arbuscular mycorrhizal plants is fungal and plant species dependent | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1046/j.1469-8137.2003.00691.x) |
@@ -277,6 +276,7 @@
 | 2023 | Perrotto & Balestrini | *New Phytologist* | At the core of the endomycorrhizal symbioses: intracellular fungal structures in orchid and arbuscular mycorrhiza | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19338?campaign=wolearlyview) |
 | 2023 | O'Brien et al. | *Evolution* | Evolutionary consequences of microbiomes for hosts: impacts on host fitness, traits, and heritability | [Link](https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad183/7310933?utm_source=advanceaccess&utm_campaign=evolut&utm_medium=email&nbd=44841427572&nbd_source=campaigner) |
 | 2023 | Li  & Gao | *Frontiers in Plant Science* | Attribution of dispersal limitation can better explain the assembly patterns of plant microbiota | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2023.1168760/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2240270_a0P58000000G0YiEAK_PlantS_20231031_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2240270&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
+| 2023 | Staude et al. | *Oikos* | Biodiversity change in light of succession theory | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.09883?campaign=woletoc) |
 
 
 
