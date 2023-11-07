@@ -277,6 +277,7 @@
 | 2023 | Li  & Gao | *Frontiers in Plant Science* | Attribution of dispersal limitation can better explain the assembly patterns of plant microbiota | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2023.1168760/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2240270_a0P58000000G0YiEAK_PlantS_20231031_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2240270&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
 | 2023 | Staude et al. | *Oikos* | Biodiversity change in light of succession theory | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.09883?campaign=woletoc) |
 | 2023 | Kalambokidis & Travisano | *Evolution* | The eco-evolutionary origins of life | [Link](https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad195/7334978?utm_source=advanceaccess&utm_campaign=evolut&utm_medium=email&nbd=44841427572&nbd_source=campaigner#google_vignette) |
+| 2023 | Piton et al. | *Nature Microbiology* | Life history strategies of soil bacterial communities across global terrestrial biomes | [Link](https://www.nature.com/articles/s41564-023-01465-0?utm_source=nmicrobiol_etoc&utm_medium=email&utm_campaign=toc_41564_8_11&utm_content=20231107) |
 
 
 
