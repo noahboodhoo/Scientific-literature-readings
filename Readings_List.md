@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2003 | Staddon et al. | *Science* | Rapid turnover of hyphae of mycorrhizal fungi determined by AMS microanalysis of <sup>14</sup>C | [Link](https://www.science.org/doi/10.1126/science.1084269) |
 |**** 2003 | Lerat et al. | *New Phytologist* | Carbon partitioning in a split-root system of arbuscular mycorrhizal plants is fungal and plant species dependent | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1046/j.1469-8137.2003.00691.x) |
 | 2004 | Simberloff | *The American Naturalist* | Community ecology: is it time to move on? | [Link](https://www.journals.uchicago.edu/doi/10.1086/420777) |
 |**** 2004 | De La Providencia | *New Phytologist* | Arbuscular mycorrhizal fungi reveal distinct patterns of anastomosis formation and hyphal healing mechanisms between different phylogenic groups| [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01236.x) |
