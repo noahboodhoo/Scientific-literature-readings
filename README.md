@@ -35,4 +35,5 @@ Here are my daily scientific literature readings!
 | November 6, 2023 | 2003 | Hansson | *Oikos* | Why ecology fails at application: should we consider variability more than regularity | Opinion paper | Regularity vs variability in ecology | [Link](https://onlinelibrary.wiley.com/doi/full/10.1034/j.1600-0706.2003.12479.x) |
 | November 7, 2023 | 2003 | Staddon et al. | *Science* | Rapid turnover of hyphae of mycorrhizal fungi determined by AMS microanalysis of <sup>14</sup>C | Experimental study | Turnover rate of AMF hyphae | [Link](https://www.science.org/doi/10.1126/science.1084269) |
 | November 10, 2023 | 2003 | Lerat et al. | *New Phytologist* | Carbon partitioning in a split-root system of arbuscular mycorrhizal plants is fungal and plant species dependent | Experimental study | Carbon sink strength of AMF | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1046/j.1469-8137.2003.00691.x) |
+| November 13, 2023 | 2004 | Simberloff | *The American Naturalist* | Community ecology: is it time to move on? | Opinion paper | Community ecology | [Link](https://www.journals.uchicago.edu/doi/10.1086/420777) |
 
