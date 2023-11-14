@@ -275,6 +275,7 @@
 | 2023 | Staude et al. | *Oikos* | Biodiversity change in light of succession theory | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.09883?campaign=woletoc) |
 | 2023 | Kalambokidis & Travisano | *Evolution* | The eco-evolutionary origins of life | [Link](https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad195/7334978?utm_source=advanceaccess&utm_campaign=evolut&utm_medium=email&nbd=44841427572&nbd_source=campaigner#google_vignette) |
 | 2023 | Piton et al. | *Nature Microbiology* | Life history strategies of soil bacterial communities across global terrestrial biomes | [Link](https://www.nature.com/articles/s41564-023-01465-0?utm_source=nmicrobiol_etoc&utm_medium=email&utm_campaign=toc_41564_8_11&utm_content=20231107) |
+| 2023 | Hu et al. | *Environmental Microbiology* | Microbiome predators in changing soils | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16461?campaign=woletoc) |
 
 
 
