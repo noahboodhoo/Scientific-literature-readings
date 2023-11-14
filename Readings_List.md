@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-|**** 2004 | De La Providencia | *New Phytologist* | Arbuscular mycorrhizal fungi reveal distinct patterns of anastomosis formation and hyphal healing mechanisms between different phylogenic groups| [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01236.x) |
 | 2004 | Koch et al. | *PNAS* | High genetic variability and low local diversity in a population of arbuscular mycorrhizal fungi | [Link](https://www.pnas.org/doi/full/10.1073/pnas.0306441101) |
 |**** 2004 | Munkvold et al. | *New Phytologist* | High functional diversity within species of arbuscular mycorrhizal fungi | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01169.x) |
 |**** 2004 | Wright et al. | *Nature* | The worldwide leaf economics spectrum | [Link](https://www.nature.com/articles/nature02403) |
