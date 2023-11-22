@@ -275,6 +275,9 @@
 | 2023 | Piton et al. | *Nature Microbiology* | Life history strategies of soil bacterial communities across global terrestrial biomes | [Link](https://www.nature.com/articles/s41564-023-01465-0?utm_source=nmicrobiol_etoc&utm_medium=email&utm_campaign=toc_41564_8_11&utm_content=20231107) |
 | 2023 | Hu et al. | *Environmental Microbiology* | Microbiome predators in changing soils | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16461?campaign=woletoc) |
 | 2023 | Liu et al. | *New Phytologist* | Arbuscular mycorrhizal fungi inhibit necrotrophic, but not biotrophic, aboveground plant pathogens: a meta-analysis and experimental study | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19392?campaign=wolearlyview) |
+| 2023 | Yang et al. | *New Phytologist* | Optimizing cropping systems to close the gap between economic profitability and environmental health | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19310) |
+| 2023 | Eisenhauer et al. | *Nature Biodiversity* | Reconsidering functional redundancy in biodiversity research | [Link](https://www.nature.com/articles/s44185-023-00015-5) |
+
 
 
 
