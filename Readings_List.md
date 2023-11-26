@@ -277,6 +277,14 @@
 | 2023 | Liu et al. | *New Phytologist* | Arbuscular mycorrhizal fungi inhibit necrotrophic, but not biotrophic, aboveground plant pathogens: a meta-analysis and experimental study | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19392?campaign=wolearlyview) |
 | 2023 | Yang et al. | *New Phytologist* | Optimizing cropping systems to close the gap between economic profitability and environmental health | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19310) |
 | 2023 | Eisenhauer et al. | *Nature Biodiversity* | Reconsidering functional redundancy in biodiversity research | [Link](https://www.nature.com/articles/s44185-023-00015-5) |
+| 2023 | Overcast et al. | *Molecular Ecology* | Inferring the ecological and evolutionary determinants of community genetic diversity | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16958?campaign=woletoc) |
+| 2023 | Noguerales et al. | *Molecular Ecology* | Community metabarcoding reveals the relative role of environmental filtering and spatial processes in metacommunity dynamics of soil microarthropods across a mosaic of montane forests | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16275?campaign=woletoc) |
+| 2023 | Ficetola & Taberlet | *Molecular Ecology* | Towards exhaustive community ecology via DNA metabarcoding | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16881?campaign=woletoc) 
+| 2023 | Graham et al. | *Molecular Ecology* | Ecological network structure in response to community assembly processes over evolutionary time | [Link]
+(https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16873?campaign=woletoc) |
+
+
+
 
 
 
