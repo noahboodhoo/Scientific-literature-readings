@@ -280,8 +280,7 @@
 | 2023 | Overcast et al. | *Molecular Ecology* | Inferring the ecological and evolutionary determinants of community genetic diversity | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16958?campaign=woletoc) |
 | 2023 | Noguerales et al. | *Molecular Ecology* | Community metabarcoding reveals the relative role of environmental filtering and spatial processes in metacommunity dynamics of soil microarthropods across a mosaic of montane forests | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16275?campaign=woletoc) |
 | 2023 | Ficetola & Taberlet | *Molecular Ecology* | Towards exhaustive community ecology via DNA metabarcoding | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16881?campaign=woletoc) 
-| 2023 | Graham et al. | *Molecular Ecology* | Ecological network structure in response to community assembly processes over evolutionary time | [Link]
-(https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16873?campaign=woletoc) |
+| 2023 | Graham et al. | *Molecular Ecology* | Ecological network structure in response to community assembly processes over evolutionary time | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16873?campaign=woletoc) |
 
 
 
