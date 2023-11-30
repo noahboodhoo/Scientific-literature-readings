@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-|**** 2004 | Wright et al. | *Nature* | The worldwide leaf economics spectrum | [Link](https://www.nature.com/articles/nature02403) |
 | 2005 | Hart & Reader | *Pedobiologia* | The role of the external mycelium in early colonization for three arbuscular mycorrhizal fungal species with different colonization strategies | [Link](https://www.sciencedirect.com/science/article/pii/S0031405605000065?via%3Dihub) |
 | 2005 | Koch et al. | *Ecology Letters* | Genetic variability in a population of arbuscular mycorrhizal fungi causes variation in plant growth | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2005.00853.x)|
 |**** 2007 | Maherali & Klironomos | *Science* | Influence of phylogeny on fungal community assembly and ecosystem functioning | [Link](https://www.science.org/doi/10.1126/science.1143082) |
