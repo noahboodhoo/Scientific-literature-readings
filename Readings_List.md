@@ -280,7 +280,8 @@
 | 2023 | Ficetola & Taberlet | *Molecular Ecology* | Towards exhaustive community ecology via DNA metabarcoding | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16881?campaign=woletoc) 
 | 2023 | Graham et al. | *Molecular Ecology* | Ecological network structure in response to community assembly processes over evolutionary time | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16873?campaign=woletoc) |
 | 2023 | Wang et al. | *New Phytologist* | Concepts and consequences of the hyphosphere core microbiome for arbuscular mycorrhizal fungal fitness and function | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19396?campaign=wolearlyview) |
-
+| 2023 | Radujkovic et al. | *Molecular Ecology* | Consistent predictors of microbial community composition across spatial scales in grasslands reveal low context-dependency | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17178?campaign=woletoc) |
+| 2023 | Wang et al. | *Molecular Ecology* | Interkingdom ecological networks between plants and fungi drive soil multifunctionality across arid inland river basin | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17184?campaign=woletoc) |
 
 
 
