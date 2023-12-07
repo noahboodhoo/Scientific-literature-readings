@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2005 | Koch et al. | *Ecology Letters* | Genetic variability in a population of arbuscular mycorrhizal fungi causes variation in plant growth | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2005.00853.x)|
 |**** 2007 | Maherali & Klironomos | *Science* | Influence of phylogeny on fungal community assembly and ecosystem functioning | [Link](https://www.science.org/doi/10.1126/science.1143082) |
 |**** 2007 | Violle et al. | *Oikos* | Let the concept of trait be functional! | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.0030-1299.2007.15559.x) |
 |**** 2008 | Bever et al. | *Ecology Letters* | Preferential allocation to beneficial symbiont with spatial structure maintains mycorrhizal mutualism | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2008.01254.x) |
