@@ -279,6 +279,7 @@
 | 2023 | Wang et al. | *New Phytologist* | Concepts and consequences of the hyphosphere core microbiome for arbuscular mycorrhizal fungal fitness and function | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19396?campaign=wolearlyview) |
 | 2023 | Radujkovic et al. | *Molecular Ecology* | Consistent predictors of microbial community composition across spatial scales in grasslands reveal low context-dependency | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17178?campaign=woletoc) |
 | 2023 | Wang et al. | *Molecular Ecology* | Interkingdom ecological networks between plants and fungi drive soil multifunctionality across arid inland river basin | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17184?campaign=woletoc) |
+| 2023 | Rocci et al. | *Soil Biology and Biochemistry* | Aligning theoretical and empirical representations of soil carbon-to-nitrogen stoichiometry with process-based terrestrial biogeochemistry models | [Link](https://www.sciencedirect.com/science/article/pii/S0038071723003346?dgcid=raven_sd_aip_email) |
 
 
 
