@@ -166,7 +166,6 @@
 | 2021 | Leroy *et al.* | *New Phytologist* | Taxonomic, phylogenetic and functional diversity of root-associated fungi in bromeliads: effects of host identity, life forms and nutritional mode | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17288) |
 | 2021 | Bullington *et al.* | *Scientific Reports* | Insufficient sampling constrains our characterization of plant microbiomes | [Link](https://www.nature.com/articles/s41598-021-83153-9) |
 |**** 2021 | Zheng *et al.* | *New Phytologist* | Assembly processes lead to divergent soil fungal communities within and among 12 forest ecosystems along a latitudinal gradient | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17457) |
-
 |**** 2021 | Bukovska *et al.* | *Frontiers in Microbiology* | Arbuscular mycorrhizal mediates efficient recycling from soil to plants of nitrogen bound in chitin | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.574060/full) |
 | 2021 | Chang *et al.* | *Frontiers in Microbiology* | The structure of rhizosphere fungal communities of wild and domesticated rice: changes in diversity and co-occurrence patterns | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.610823/full) |
 | 2021 | Deng *et al.* | *Frontiers in Microbiology* | Rhizosphere microbial communities are significantly affected by optimized phosphorus management in a slope farming system | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.739844/full) |
