@@ -279,6 +279,11 @@
 | 2023 | Radujkovic et al. | *Molecular Ecology* | Consistent predictors of microbial community composition across spatial scales in grasslands reveal low context-dependency | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17178?campaign=woletoc) |
 | 2023 | Wang et al. | *Molecular Ecology* | Interkingdom ecological networks between plants and fungi drive soil multifunctionality across arid inland river basin | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17184?campaign=woletoc) |
 | 2023 | Rocci et al. | *Soil Biology and Biochemistry* | Aligning theoretical and empirical representations of soil carbon-to-nitrogen stoichiometry with process-based terrestrial biogeochemistry models | [Link](https://www.sciencedirect.com/science/article/pii/S0038071723003346?dgcid=raven_sd_aip_email) |
+| 2023 | Ma et al. | *Molecular Ecology* | Multiple spatial scales of bacterial and fungal structural and functional traits affect carbon mineralization | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17235?campaign=wolearlyview) |
+| 2023 | Romero-Olivares et al. | *FEMS Microbiology Letters* | Tracking fungal species-level responses in soil environments exposed to long-term warming and associated drying | [Link](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnad128/7459941?utm_source=advanceaccess&utm_campaign=femsle&utm_medium=email&nbd=44841427572&nbd_source=campaigner) |
+
+
+
 
 
 
