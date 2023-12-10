@@ -159,11 +159,14 @@
 | 2021 | Tatsumi *et al.* | *Frontiers in Plant Science* | Arbuscular mycorrhizal community in roots and nitrogen uptake patterns of understory trees beneath ectomycorrhizal and non-ectomycorrhizal overstory trees | [Link](https://www.frontiersin.org/articles/10.3389/fpls.2020.583585/full) |
 |**** 2021 | Albornoz *et al.* | *New Phytologist* | Agricultural land-use favours Mucoromycotinian, but not Glomeromycotinian, arbuscular mycorrhizal fungi across ten biomes | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17780) |
 | 2021 | Orru *et al.* | *Frontiers in Microbiology* | How tillage and crop rotation change the distribution pattern of fungi | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.634325/full) |
+| 2021 | Dawson et al. | *Ecology and Evolution* | The traits of 'trait ecologists': an analysis of the use of trait and functional trait terminology | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8321) |
+| 2021 | Kearney et al. | *Functional Ecology* | Where do functional traits come from? The role of theory and models | [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13829?_gl=1*1782e3a*_gcl_au*OTYzODc0NDEwLjE2OTYzNDgxNzM.) |
 | 2021 | Wang *et al.* | *Ecology and Evolution* | Humus microhabitat affects distributions of soil fungi and bacteria in a temperate mountain forest | [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7759) |
 | 2021 | Kleber et al. | *Nature Reviews Earth & Environment* | Dynamic interactions at the mineral-organic matter interface | [Link](https://www.nature.com/articles/s43017-021-00162-y) |
 | 2021 | Leroy *et al.* | *New Phytologist* | Taxonomic, phylogenetic and functional diversity of root-associated fungi in bromeliads: effects of host identity, life forms and nutritional mode | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17288) |
 | 2021 | Bullington *et al.* | *Scientific Reports* | Insufficient sampling constrains our characterization of plant microbiomes | [Link](https://www.nature.com/articles/s41598-021-83153-9) |
 |**** 2021 | Zheng *et al.* | *New Phytologist* | Assembly processes lead to divergent soil fungal communities within and among 12 forest ecosystems along a latitudinal gradient | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17457) |
+
 |**** 2021 | Bukovska *et al.* | *Frontiers in Microbiology* | Arbuscular mycorrhizal mediates efficient recycling from soil to plants of nitrogen bound in chitin | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.574060/full) |
 | 2021 | Chang *et al.* | *Frontiers in Microbiology* | The structure of rhizosphere fungal communities of wild and domesticated rice: changes in diversity and co-occurrence patterns | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.610823/full) |
 | 2021 | Deng *et al.* | *Frontiers in Microbiology* | Rhizosphere microbial communities are significantly affected by optimized phosphorus management in a slope farming system | [Link](https://www.frontiersin.org/articles/10.3389/fmicb.2021.739844/full) |
@@ -281,6 +284,7 @@
 | 2023 | Rocci et al. | *Soil Biology and Biochemistry* | Aligning theoretical and empirical representations of soil carbon-to-nitrogen stoichiometry with process-based terrestrial biogeochemistry models | [Link](https://www.sciencedirect.com/science/article/pii/S0038071723003346?dgcid=raven_sd_aip_email) |
 | 2023 | Ma et al. | *Molecular Ecology* | Multiple spatial scales of bacterial and fungal structural and functional traits affect carbon mineralization | [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17235?campaign=wolearlyview) |
 | 2023 | Romero-Olivares et al. | *FEMS Microbiology Letters* | Tracking fungal species-level responses in soil environments exposed to long-term warming and associated drying | [Link](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnad128/7459941?utm_source=advanceaccess&utm_campaign=femsle&utm_medium=email&nbd=44841427572&nbd_source=campaigner) |
+
 
 
 
