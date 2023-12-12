@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-|**** 2007 | Violle et al. | *Oikos* | Let the concept of trait be functional! | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.0030-1299.2007.15559.x) |
 |**** 2008 | Bever et al. | *Ecology Letters* | Preferential allocation to beneficial symbiont with spatial structure maintains mycorrhizal mutualism | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2008.01254.x) |
 |**** 2009 | Oehl et al. | *Agriculture, Ecosystems & Environment* | Distinct sporulation dynamics of arbuscular mycorrhizal fungal communities from different agroecosystems in long-term microcosms | [Link](https://www.sciencedirect.com/science/article/pii/S0167880909002266?via%3Dihub) | 
 | 2009 | Gamper et al. | *New Phytologist* | Molecular trait indicators: moving beyond phylogeny in arbuscular mycorrhizal ecology | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03058.x) | 
