@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2009 | Ehinger et al. | *New Phytologist* | Changes in arbuscular mycorrhizal fungal phenotypes and genotypes in response to plant species identity and phosphorus concentration | [Link](https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2008.01254.x) |
 |**** 2009 | Powell et al. | *Proceedings of the Royal Society B Biological Sciences | Phylogenetic trait conservatism and the evolution of functional trade-offs in arbuscular mycorrhizal fungi | [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.1015)|
 |**** 2009 | Johnson | *New Phytologist* | Resource stoichiometry elucidates the structure and function of arbuscular mycorrhizas across scales | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03110.x) |
 | 2010 | Lumini *et al.* | *Environmental Microbiology* | Disclosing arbuscular mycorrhizal fungal biodiversity in soil through a land-use gradient using a pyrosequencing approach | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2009.02099.x) |
