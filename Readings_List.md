@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2010 | Lumini *et al.* | *Environmental Microbiology* | Disclosing arbuscular mycorrhizal fungal biodiversity in soil through a land-use gradient using a pyrosequencing approach | [Link](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2009.02099.x) |
 | 2010 | Antunes et al. | *New Phytologist* | Evidence for functional divergence in arbuscular mycorrhizal fungi from contrasting climatic origins | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2010.03480.x) |
 | 2011 | Dumbrell *et al.* | *New Phytologist* | Distinct seasonal assemblages of arbuscular mycorrhizal fungi revealed by massively parallel pyrosequencing | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/j.1469-8137.2010.03636.x) |
 |**** 2011 | Thonar et al. | *Plant and Soil* | Traits related to differences in function among three arbuscular mycorrhizal fungi | [Link](https://link.springer.com/article/10.1007/s11104-010-0571-3) |
