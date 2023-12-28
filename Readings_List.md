@@ -2,8 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-| 2010 | Antunes et al. | *New Phytologist* | Evidence for functional divergence in arbuscular mycorrhizal fungi from contrasting climatic origins | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2010.03480.x) |
-| 2011 | Dumbrell *et al.* | *New Phytologist* | Distinct seasonal assemblages of arbuscular mycorrhizal fungi revealed by massively parallel pyrosequencing | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/j.1469-8137.2010.03636.x) |
 |**** 2011 | Thonar et al. | *Plant and Soil* | Traits related to differences in function among three arbuscular mycorrhizal fungi | [Link](https://link.springer.com/article/10.1007/s11104-010-0571-3) |
 |**** 2011 | Kiers et al. | *Science* | Reciprocal rewards stabilize cooperation in the mycorrhizal symbiosis | [Link](https://www.science.org/doi/epdf/10.1126/science.1208473?src=getftr) |
 | 2012 | Chagnon *et al.* | *New Phytologist* | Using ecological network theory to evaluate the causes and consequences of arbuscular mycorrhizal community structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2011.04044.x) |
@@ -278,6 +276,7 @@
 | 2023 | Frew et al. | *New Phytologist* | Herbivory-driven shifts in arbuscular mycorrhizal fungal community assembly: increased fungal competition and plant phosphorus benefits | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19474?campaign=wolearlyview) |
 | 2023 | Wang et al. | *Frontiers in Ecology and Evolution* | Path-dependent selection - a bridge between natural selection and neutral selection | [Link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1326379/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2272137_a0P58000000G0XVEA0_Ecolog_20231221_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2272137&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
 | 2023 | Delory et al. | *New Phytologist* | A trait-based framework linking the soil metabolome to plant-soil feedbacks | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19490?campaign=wolearlyview) |
+| 2023 | Goossens et al. | *Nature Biodiversity* | Negative plant-soil feedbacks disproportionally affect dominant plants, facilitating coexistence in plant communities | [Link](https://www.nature.com/articles/s44185-023-00032-4?utm_source=npjbiodivers_etoc&utm_medium=email&utm_campaign=toc_44185_2_1&utm_content=20231227) |
 
 
 
