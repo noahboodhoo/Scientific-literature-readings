@@ -277,6 +277,7 @@
 | 2023 | Wang et al. | *Frontiers in Ecology and Evolution* | Path-dependent selection - a bridge between natural selection and neutral selection | [Link](https://www.frontiersin.org/articles/10.3389/fevo.2023.1326379/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_2272137_a0P58000000G0XVEA0_Ecolog_20231221_arts_A&id_mc=382552086&utm_source=sfmc&utm_medium=email&utm_campaign=Article+Alerts+V4.1-Frontiers&utm_id=2272137&Business_Goal=%%__AdditionalEmailAttribute1%%&Audience=%%__AdditionalEmailAttribute2%%&Email_Category=%%__AdditionalEmailAttribute3%%&Channel=%%__AdditionalEmailAttribute4%%&BusinessGoal_Audience_EmailCategory_Channel=%%__AdditionalEmailAttribute5%%) |
 | 2023 | Delory et al. | *New Phytologist* | A trait-based framework linking the soil metabolome to plant-soil feedbacks | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19490?campaign=wolearlyview) |
 | 2023 | Goossens et al. | *Nature Biodiversity* | Negative plant-soil feedbacks disproportionally affect dominant plants, facilitating coexistence in plant communities | [Link](https://www.nature.com/articles/s44185-023-00032-4?utm_source=npjbiodivers_etoc&utm_medium=email&utm_campaign=toc_44185_2_1&utm_content=20231227) |
+| 2023 | Peng et al. | *New Phytologist* | Mycorrhizal effects on crop yield and soil ecosystem functions in a long-term tillage and fertilization experiment | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19493?campaign=wolearlyview) |
 
 
 
