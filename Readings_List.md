@@ -279,6 +279,9 @@
 | 2023 | Goossens et al. | *Nature Biodiversity* | Negative plant-soil feedbacks disproportionally affect dominant plants, facilitating coexistence in plant communities | [Link](https://www.nature.com/articles/s44185-023-00032-4?utm_source=npjbiodivers_etoc&utm_medium=email&utm_campaign=toc_44185_2_1&utm_content=20231227) |
 | 2023 | Peng et al. | *New Phytologist* | Mycorrhizal effects on crop yield and soil ecosystem functions in a long-term tillage and fertilization experiment | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19493?campaign=wolearlyview) |
 | 2023 | Mayor et al. | *Oikos* | Diversity-functioning relationships across hierarchies of biological organization | [Link](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.10225?campaign=woletoc) |
+| 2024 | Lekberg et al. | *New Phytologist* | Carbon and phosphorus exchange rates in arbuscular mycorrhizas depend on environmental context and differ among co-occurring plants | [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19501?campaign=wolearlyview) |
+
+
 
 
 
