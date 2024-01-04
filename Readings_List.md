@@ -2,7 +2,6 @@
 
 | **Year** | **Author(s)** | **Journal** | **Title** | **Link** |
 | --- | --- | --- | --- | --- | 
-|**** 2011 | Thonar et al. | *Plant and Soil* | Traits related to differences in function among three arbuscular mycorrhizal fungi | [Link](https://link.springer.com/article/10.1007/s11104-010-0571-3) |
 |**** 2011 | Kiers et al. | *Science* | Reciprocal rewards stabilize cooperation in the mycorrhizal symbiosis | [Link](https://www.science.org/doi/epdf/10.1126/science.1208473?src=getftr) |
 | 2012 | Chagnon *et al.* | *New Phytologist* | Using ecological network theory to evaluate the causes and consequences of arbuscular mycorrhizal community structure | [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2011.04044.x) |
 |**** 2012 | Opik | *New Phytologist* | Missing nodes and links in mycorrhizal networks | [Link](https://www.jstor.org/stable/newphytologist.194.2.304) |
